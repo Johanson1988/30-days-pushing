@@ -1,0 +1,10 @@
+ - Continuos learning
+
+ - minizar los renderizadosn
+
+ achievements
+  - refactorizar componente monolítico como el mapa que tenía sus funciones duplicadas para leaflet y google maps, el componente estaba basado en clases, y se refactorizó de manera funcional, usando react hooks para mejorar el rendimiento y siguiendo una arquitectura hexagonal.
+
+  - mejorar proceso de testing
+
+   - Participar en procesos de despliegue

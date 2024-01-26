@@ -1,0 +1,2583 @@
+Senior Frontend Developer
+Freepik Company
+8 valoraciones
+Málaga, Málaga provincia
+De 50.000 € a 70.000 € al año
+&nbsp;
+Beneficios
+Obtenidos de la descripción completa del empleo
+Cantina
+Día libre por cumpleaños
+Flexibilidad horaria
+Plan de retribución flexible
+&nbsp;
+Descripción completa del empleo
+¡El Universo de Freepik sigue en plena Expansión!
+
+Buscamos un/a Frontend Developer con experiencia demostrada (Se realizará prueba técnica) para el equipo de Technology.
+
+Oficinas en el centro de Málaga.
+Trabajo remoto o híbrido, a tu elección.
+Horario flexible.
+Equipo multicultural de más de 500 personas.
+23 días de vacaciones + 24 y 31 de diciembre libres.
++ Día libre en tu cumpleaños.
++ 5 días extra de vacaciones a partir de tu quinto aniversario.
+Flexifestivos: distribuye los días festivos del año como quieras.
+Retribución flexible.
+Cantina completa en oficina: refrescos, zumos naturales, snacks, fruta y mucho más.
+Comedor gratuito en oficina.
+Subvención en gastos de psicología.
+¡Somos Great Place to Work! El 93% de los trabajadores opina que este es un lugar excelente para trabajar.
+¿Qué harás en tu día a día?
+
+Contribuir a la mejora del ciclo de vida del desarrollo de software junto con otros miembros del equipo.
+Colaborar con el departamento de UX para sacar las características enfocadas en la mejor experiencia para el usuario
+Utilizar metodologías clean code para favorecer las best practices entre desarrolladores
+Realizar pruebas de los componentes desarrollados
+Favorecer la utilización de metodologías SOLID y otros patrones de diseño.
+Trabajar junto al departamento de backend para integrar las funcionalidades server side.
+Tener experiencia demostrable de +4 años como desarrollador frontend.
+Poseer conocimientos avanzados sobre patrones de diseño y prácticas recomendadas.
+Experiencia definiendo arquitecturas.
+Preferible: Tener experiencia en metodología del desarrollo guiado por pruebas (TDD) y herramientas como Mocha, Jest, Enzyme, CasperJS, etcétera. Poseer conocimientos sobre Docker y PHP.
+Valorable: Tener experiencia en desarrollo ágil de software (Scrum) y prácticas de integración continua, y estar familiarizado con Jira y Bitbucket. Utilización de framework reactivo (Angular, React o Vue). Patrones de diseño. Frameworks de testing, patrones de arquitectura, experiencia con webpack. Integración con API.
+Ser capaz de comunicarte de manera eficaz con tus compañeros de equipo.
+Tener iniciativa y ser capaz de trabajar en nuevas tareas.
+Ser capaz de llevar un proyecto de principio a fin de manera independiente.
+Ser detallista, organizado y eficaz en la gestión del tiempo.
+Ser una persona apasionada por la tecnología, con ganas de aprender y probar cosas nuevas.
+En Freepik Company estamos comprometidos con la Igualdad de Oportunidades independientemente del sexo, orientación sexual, color de piel, edad, religión o cualquier otra consideración no profesional y garantizamos este principio en todos los procesos de selección.
+
+Trataremos tus datos personales con la finalidad de gestionar tu CV para la selección de personal, basándonos en tu consentimiento al aplicar a esta oferta. Si tu perfil no se ajustase a los requisitos buscados, conservaremos tus datos por periodo de 1 año para futuros procesos, salvo que nos indiques lo contrario.
+
+No cederemos tus datos a terceros salvo obligación legal. Recuerda que siempre puedes ejercer tus derechos de acceso, rectificación, supresión, oposición, limitación al tratamiento, portabilidad, transparencia y a no ser objeto de decisiones automatizadas. Para ello, envíanos un correo electrónico a la dirección rpd@freepik.com adjuntando una copia de tu DNI o documento similar.
+
+Para más información, puedes consultar nuestra Política de Privacidad:
+
+Senior Full Stack Engineer (5+ years exp)
+€70k – €90k • 0.01% – 1.0%
+Published: 3 weeks ago
+Save
+Apply Now
+Avatar for Seatti
+Seatti
+We want to help people work from wherever they want! B2B flex-office/team management SaaS
+image
+Munich
+image
+11-50
+image
+Startup
+Early Stage
+SaaS
+image
+SaaS
+Real Estate
+B2B
+See all jobs at Seatti image
+Location
+Munich
+ - Berlin
+ - Remote
+Job Type
+Full Time
+Visa Sponsorship
+Not Available
+Remote Work Policy
+Remote only
+Hires Remotely In
+Europe
+Preferred Timezones
+Central European Time
+Relocation
+Allowed
+Skills
+SQL
+HTML5 & CSS3
+REST APIs
+TypeScript
+React Native
+GraphQL
+Cypress
+The Role
+What would I do all day?
+
+As a Senior Full Stack Engineer at Seatti, you will play a pivotal role in crafting exceptional user experiences for our web applications. Your day-to-day responsibilities will include:
+
+Collaborating closely with product managers and designers to understand project requirements and user needs.
+Leading the development of high-quality, responsive web interfaces using react.
+Mentoring and providing technical guidance to junior engineers and developing them in pair-programming settings.
+Conducting code reviews and ensuring code quality through best practices and code standards.
+Identifying and resolving performance bottlenecks and issues.
+Staying up-to-date with industry trends and emerging technologies to ensure our products remain innovative and competitive.
+Participating in cross-functional teams to drive product development and deliver solutions that meet business goals. As a seed stage company, your responsibilities will naturally go beyond just programming. If you want, we'd love to involve you in the development of our long-term technical strategy, hiring, management and anything else you find interesting.
+Who exactly are you looking for?
+
+Good question! Generally, we know we’ve found a great match with you if you recognise yourself in most of these points:
+
+You enjoy working with Typescript, React, GraphQL
+You have industry-level knowledge of HTML5/CSS
+You’ve gained experience working with GraphQL / REST APIs, SQL databases
+You are fit in software design patterns & architecture and clean code practices
+You have an advanced understanding in unit, component & E2E tests (Cypress)
+You have a working knowledge of cloud infrastructure (AWS, Azure, etc.)
+You can and want to take responsibility & ownership and have a faible for creative problem solving Even if you don’t tick all of these boxes, we would like to encourage you to apply nevertheless!
+Nice-to-have’s:
+
+Experience with Postgres, Nest.js, Azure or Amplitude
+Familiar with Tailwind or Storybook
+An eye for great UI / UX
+
+Our Interview Process - quick and easy
+
+You don't need to write a long application. Just send us your CV and 3-4 sentences about yourself.
+
+A relaxed first up to 45 minute get-to-know-you conversation with the hiring manager, you can get your first questions out and we'll get to know you a little better.
+Tech Assessment: We don’t want to add a lot of work load, but in this assessment we’ll check your tech skills and knowledge.
+Meet our co-founder and CTO Moritz! Have a deep dive with Moritz so he can ask you more detailed questions about your role and suitability.
+If all goes well and we all like each other, the final step is a short interview with a couple of team members, so that you can see who you'll be working with. P.S.: No matter where you come from, what gender you identify as, who you love, which god(s) you believe in (or not), or what you look like - we’d love to have you on board!
+About us
+
+Join the team!
+We're having lots of fun. And we're always looking for great people. So come join our team!
+
+We're Seatti, a remote-first startup with hubs in Munich and Berlin. We want everyone to be able to work from wherever they want! That's why we have made it our mission to enable global companies to switch to hybrid and remote work. And that's why we're looking for you!
+We're not Google (yet), so we can't offer you free açai bowls every day. BUT what we can offer you is:
+
+Work from wherever you want (you get a global WeWork membership), or we pay for you to move to us.
+A competitive salary and company share package.
+Come to our team outings to work AND party with the whole team.
+Get your ideal home office set up. You can design the whole set up yourself, up to €250 a year!
+Get free memberships to SwapFiets or a €20 public transport subsidy.
+Get a €67 credit every month for food delivery or groceries.
+Get a €400 AirBnB voucher every year to work from wherever you want!
+Get all the awesome Seatti merch you could ever dream of.
+Be part of a super fun, collaborative and motivated team.
+✍️ Last but not least: Get a free, hand-stitched tattoo from our co-founder, Johannes!
+
+Senior Front-end Software Engineer - React/JS + UI/UX Experience en Madrid
+Bequant
+Categoría Programador Frontend
+Industria Industria Telco
+Salario€60.000 - €100.000
+Lugar de trabajoEn sede
+HorasFull-Time
+Prácticasfalse
+HabilidadesReact JavaScript
+Comparte la oferta
+   
+Descripción de la oferta
+You will be a key designer and developer of the user interface for our network optimization product, developing new data-visualization and real-time control functionality, and implementing an appealing UI/UX
+
+Responsibilities
+Develop new data visualization and real-time control functionality for our network optimization product
+Design an appealing and consistent UX/UI for our product.
+Participate in the on-going migration of our Graphical User Interface, which was previously based on native JavaScript and jQuery, to a React framework.
+‍
+
+Minimum Qualifications
+Bachelor's degree in Computer Science or a related field.
+10+ years of software development experience.
+Expert skills in vanilla JavaScript and jQuery programming.
+Expert skills working in React with recent experience in ES6.
+Expert skills in HTML5, CSS3 and Bootstrap.
+Working experience with Node.js.
+Significant experience with data visualization libraries for browsers, like D3.
+Experience with React UI component libraries like MUI.
+UX/UI experience
+Experience with Linux development environment (basic shell commands, make, etc.) and tools (especially GIT using the command line).
+Linux system administration skills (to manage your Linux laptop for development).
+Proficient in English (fluent in reading, writing, and speaking).
+EU nationality or Spanish work permit already granted.
+‍
+
+Desired Qualifications
+Experience with Test-Driven Development (TDD) & TypeScript
+Experience with scripting in sh/bash shell and Linux tools (awk, sed, etc.)
+Experience with imaging tools: GIMP, Inkspace, etc.
+Experience with virtual environments (KVM, VMware or VirtualBox) and containers (docker, Kubernetes).
+‍
+
+We offer:
+Full-time indefinite-term employment contract
+Competitive salary (60K€ - 100K€, depending on experience and qualifications)
+Work with top-level engineering group in a successful technology start-up
+
+NGINEERING · FULLY REMOTE (OPTIONAL), MADRID
+Staff Product Engineer (React Native)
+We're looking for a Staff Product Engineer to join our New User Acquisition team and build amazing onboarding experiences for kids and caregivers ✨
+
+join us!
+
+Lingokids' mission is to help 100 million families worldwide raise amazing kids through playlearning™.
+
+Through play and interactive technology, Lingokids delivers premium, modern learning through educational subjects and life skills so kids can thrive as confident, conscious, resilient, lifelong learners — ready for school and today’s ever-changing world.
+
+To help us on this mission, we’re looking for an experienced Staff Product Engineer to join the Product Engineering team.
+
+At Lingokids, we encourage candidates of all different backgrounds to apply. We actively seek to hire individuals with different perspectives, and we are eager to continue diversifying our company’s culture. We strive to be an inclusive, supportive place where you can do the best work of your career.
+
+ 
+
+Are you ready for Playlearning™?
+At Lingokids, being a Product Engineer means being responsible for the entire lifecycle of an initiative in our product, from initial conceptualisation to deployment and beyond. Our Product Engineers have a deep understanding of both technical intricacies and user needs and, collaborate closely with Designers, other Product Engineers, and stakeholders.
+
+As a Staff Product Engineer, you will be part of the Product Engineering team, which consists of around 25 people working in multidisciplinary teams. More specifically, you work in the New User Monetization team (we also refer to them as our Revolutionary Ravens). They focus on building amazing onboarding experiences for our brand-new users to stay with us.
+
+ 
+
+Responsibilities
+Design, build and maintain features focused on children and caregivers. You’ll own features of any size end-to-end, from scoping and tech design to instrumentation/monitoring, deployment, delivery to users, and maintenance.
+Ensure projects are running smoothly by facilitating and assisting others in improving internal processes (e.g. technical scoping, planning, monitoring)
+Engage in close collaboration with UX and Designers to translate design concepts into functional code, enhancing our design system components in the process.
+Discover problems and make a case for them to be addressed. Refine ambiguous and open-ended problems and suggest solutions to features of any size.
+Actively contribute in Mobile chapter discussions by improving its quality standards and leading on setting and ensuring best practices. Lead without formal authority through influence, across the chapter.
+Feed back constructively on others through design, code, and peer reviews; as well as accepting feedback graciously and action as necessary
+Mentoring more junior engineers.
+ 
+
+Desired experience
+Experience in technical leadership. We appreciate experience as Staff Engineer, Principal Engineer, or having worked as Tech Lead.
+Demonstrated ability to lead effectively without relying on formal authority, through influence.
+Experience with React Native, or native mobile.
+Feel comfortable working with Javascript/ES6 and/or native mobile.
+Relentless in finding simple, elegant solutions to complex problems.
+Understanding of how apps communicate with APIs.
+Attention to detail and provide solid and scalable solutions to improve the code base.
+Ability to clearly articulate the business impact of their work and others’ to non-technical stakeholders.
+English is a must. We are a multicultural team, and we are providing a service in English so, we don't care about certificates, but we expect you to be able to communicate fluently.
+
+You should feel equally comfortable communicating in long-form writing. We have become a fully remote company so, we believe that being articulate in both spoken and written long-form asynchronous communication is key to working efficiently together.
+
+Life at Lingokids
+Salary Range: 85k-95k€
+
+🏡 Remote working: you can choose to work remotely from within your country or visit our offices if you live in Madrid.
+
+⚖️ Flexible hours and work-life balance: we care about the results you bring to the team. 9 to 6 and constant commuting is not for us either.
+
+📈 Stock options: joining Lingokids means you can choose to own part of the company.
+
+🌍 Visa sponsorship: if you need a visa to work in the EU, Lingokids will assist you during the visa process, costs included.
+
+📚 Professional growth: up to €2.000 per year for conferences, books, and training.
+
+💬 Language lessons: language learning is what we’re all about! We’ll cover language classes for you to learn Spanish, English or Portuguese.
+
+🩺 Health care: we have optional health insurance as flexible retribution and 4 online therapy sessions for free to help your self-awareness and wellbeing.
+
+💳 Flexible compensation: you'll be able to include your monthly expenses in meals and transportations into your payroll.
+
+🍲 Meal allowances: every month, you will receive a 60€ voucher for you to spend on the restaurants and food delivery services you like the most.
+
+🖥 Home office setup: you'll have a 400€ voucher to set up your home office and a 35€ monthly allowance for remote expenses.
+
+🙌 Feedback culture: feedback is the breakfast of champions, and we take it seriously! This is why we have different mechanisms in place to ensure everyone gives and receives feedback throughout their journey in the company
+
+If you think you don't tick all the boxes, we'd still love to hear from you. Nobody checks every box, and we are looking for someone excited to join the team!
+
+Manfred logo
+TALENT
+I WANT TO HIRE
+ABOUT US
+JOB OFFERS
+BLOG
+PRIVATE AREA
+EN
+CTAIMA
+Head image
+Offer managed by:
+
+Manfred
+Sofia Nikolaeva
+Sofia Nikolaeva
+SCOUT
+Offer only available in Spanish
+React Frontend Developer
+SALARY
+€37-47K
+IN-PERSON
+TARRAGONA
+or
+REMOTE
+100%
+Remoto 100% 🌎
+Producto 🎯
+Cultura 👌
+Formación📚
+English💂
+Equipo internacional🌎
+Desde CTAIMA han desarrollado un SaaS que permite regular las obligaciones legales que deben cumplir las empresas para evitar accidentes y básicamente salvar vidas, o mejor dicho, prevenir el tener que hacerlo.
+
+Pequeños detalles en los que no solemos pensar, y son de vital importancia. Para seguir desarrollando y haciendo crecer su producto, necesitan incorporar al equipo un Frontend React Developer que les ayude. ¿Crees que podrías ser tú? Sigue leyendo… 👇🏼
+
+What will you do?
+💡 ¿Te has planteado alguna vez la complejidad que supone para las empresas el tener bajo control el cumplimiento de Prevención de Riesgos Laborales o la gestión documental de contratistas o proveedores? Hay todo un mundo legislativo detrás que vela porque todos trabajemos en un entorno laboral seguro y en unas buenas condiciones. Para los más cinéfilos, películas como El Maquinista, o el clásico Tiempos Modernos, nos muestran la realidad y la importancia de este sector 🎥.
+
+Pues bien, CTAIMA es una compañía especializada, exactamente en esto mismo, en aportar soluciones integradas de transformación digital y consultoría en materia de gestión de contratistas, seguridad y salud en el trabajo, calidad y medio ambiente. Es decir, velan día a día por la Prevención de Riesgos Laborales y el Cumplimiento Legal en más de mil compañías. 
+
+Trabajan para todo tipo de sectores, desde retail, construcción y transporte hasta el sector de la salud o la siderurgia ⛏️.
+
+¿Y como lo hacen? Han desarrollado un Software Integral para cubrir todas estas necesidades en la empresa que las requiera (actualmente cuentan con más de 1300 clientes que utilizan su SaaS y se benefician de sus servicios).  
+
+En su página web puedes conocer un poco más de su historia y como han llegado a donde están hoy. Además, este año están de celebración, porque es su 20 aniversario 🎂.
+
+
+
+🎯¿Cuál será tu misión? 
+
+Serás el referente Frontend en un equipo en pleno crecimiento. Actualmente, aunque el producto ya está consolidado y hay varias personas que tienen conocimientos en Front, necesitan a alguien especialista que les eche una mano en aquellas cuestiones de mayor complejidad como por ejemplo la arquitectura de front, mejoras en el código, optimización de performance etc. Tu misión será colaborar codo con codo con el equipo de desarrollo y producto con el objetivo de elaborar una user & developer experience óptima, eficiente e intuitiva 🚀.
+
+CTAIMAYour day ZERO
+
+
+In 1 month
+Ya conocerás a todo el equipo y probablemente ya te hayas tomado uno o dos cafés virtuales con ellos ☕️. Notarás que ya te estás empapando de la cultura de CTAIMA aunque todavía te falte mucho por ver y entender, pero paciencia… ¡1 mes pasa volando! 💨
+
+Your responsibilities
+Formarás parte del ciclo de vida completo del desarrollo, desde la definición y refinamiento del producto hasta el lanzamiento y mantenimiento del mismo.
+
+Te encargarás de diseñar la experiencia del usuario y crear productos que sean fáciles de utilizar y visualmente atractivos.
+
+Participarás en la fase de Discovery de Producto aportando tu visión y experiencia técnica.
+
+Trabajarás en un equipo Scrum junto con el Product Manager en las solicitudes que realicen los clientes respecto a la plataforma, para evaluar y revisar la forma de implementarlas.
+
+Participarás en la definición de nuevas arquitecturas.
+
+Probarás y asegurarás la calidad de la plataforma junto con el equipo de control de calidad/pruebas.
+
+How will you do it?
+Con mucha autonomía, aunque siempre con un equipo a la espalda en el que poder apoyarte. Estrecharás lazos con el equipo de CTAIMA que se encuentra en España y con la parte del equipo que tienen en la India, con quien tendrás reuniones prácticamente a diario y estaréis totalmente alineados en la consecución de objetivos. 
+
+Su metodología de trabajo se rige por un entorno de trabajo ágile con metodología Scrum en el que podrás participar y aportar tus conocimientos y opiniones en todas las decisiones que afecten al proyecto. 
+
+En cuanto a formación, también están al día por si te lo estabas preguntando, tienen programas de formación y desarrollo profesional para que crezcas sin límite, desde acceso a cursos hasta certificaciones: Azure, agile, scrum… y además son partner Gold de Microsoft. 
+
+
+
+When will you work?
+⏰ De lunes a jueves trabajarás de 08:00 a 17:15, y viernes saldrás a las 15:00h. Además, cuentan con flexibilidad de entrada, puedes entrar de 08:00 a 09:00. Todas las reuniones son a partir de las 09:30 en adelante, así que no tendrás problema si tienes que entrar un poco más tarde. 
+
+🌞 En verano hacen jornada intensiva, julio y agosto trabajan de 08:00 a 15:00 para que puedas disfrutar y aprovechar el día como te apetezca. Saldrás y tendrás todo el día por delante, ¡una gozada!
+
+
+
+WORKING DAY
+FULL-TIME
+
+
+HOLIDAYS
+22 DAYS
+
+
+CONTINUOUS SHIFT
+FRIDAYS
+
+
+CONTINUOUS SHIFT
+IN THE SUMMER
+Where will you work?
+IN-PERSON
+TARRAGONA
+or
+REMOTE
+100%
+¡Desde donde quieras! 💻🫡
+
+Esta posición es 100% remota, por lo que podrás trabajar desde donde tú quieras, ya sea un pueblecito en la montaña 🏔️, desde la playa 🏝️ o desde el centro de la ciudad 🏙️. 
+
+Si eres de los que les gusta ir a la ofi, ¡no hay problema! Estarán encantados de recibirte. Ellos están en Tarragona, a literalmente 10 minutos andado de la playa, todo un lujo.
+
+Who will you work with?
+En CTAIMA son un equipazo de casi 200 personas y aunque acabarás conociendo a todos, con quién trabajarás más de cerca será con el equipo técnico y el equipo de producto. Algunas de las personas que te acompañarán en este reto son: 
+
+Antonio Sesé Cáceres (CTO) : con más de 20 años de experiencia en el sector, es el líder del equipo completo de tecnología y todas sus áreas.
+
+David Teruel Rico (Desarrollador .NET - Scrum Master): lleva más de 12 años en la compañía, es Scrum Master además de experto en .Net. Es la persona que se encarga de que todo vaya sobre ruedas y no se pierda el foco en los objetivos.
+
+Manuel Torres López (CPO): como Chief Product Officer es el encargado de alinear las estrategias de producto junto con los objetivos empresariales, así como fomentar la innovación y crear productos que impacten y respondan en mercado. El equipo técnico y el equipo de producto trabajan mano a mano y están muy alineados en el día a día.
+
+What are they asking for?
+En su «lista de los Reyes Magos» nos han pedido a un/a nuevo/a Frontend Developer que cuente con:
+
+Sobre todo ganas y motivación en trabajar con React. Es el framework que ellos utilizan y les encantaría que además de conocimientos en esta parte, también cuentes con expertise en arquitectura de micro-frontends. 
+Experiencia sólida en TypeScript, desde CTAIMA ponen especial foco en las buenas prácticas. 
+Conocimientos y experiencia con plataformas basadas en la nube, ellos concretamente trabajan con Azure. 
+En cuanto a diseño de interfaz de usuario, trabajan con Ant Desing, si conoces esta herramienta o alguna parecida, tendréis un match casi asegurado. 
+También necesitarás un nivel de inglés intermedio, ya que al tener un equipo internacional, varias de las reuniones de tu día a día serán en inglés.
+Les enamorarás si además…
+
+Tienes conocimientos en back-end Microsoft .NET u otros marcos de back-end.
+Estás familiarizado/a con arquitectura de Microservicios y los servicios web REST.
+Experiencia con bases de datos no relacionales.
+Technologies
+Non-negotiable
+
+React
+ADVANCED
+
+TypeScript
+ADVANCED
+This would be good
+
+Azure
+INTERMEDIATE
+
+NoSQL
+INTERMEDIATE
+This gives extra points
+
+.NET
+BASIC
+Other skills
+Non-negotiable
+
+Analytical thinking
+
+Continuous learning
+
+Attention to detail
+
+Creative thinking
+This would be good
+
+Leadership skills
+
+Proactivity
+This gives extra points
+
+Team management
+Languages
+English
+INTERMEDIATE
+What are they offering?
+SALARY
+€37-47K
+REMOTE
+100%
+Aparte de lo que hemos ido comentando, aquí tienes un resumen de los perks que ofrecen 👇🏼
+
+Perks
+
+LANGUAGE CLASSES
+
+DYNAMICS AND TEAMBUILDING EVENTS
+
+BUDGET FOR TRAINING
+
+BUDGET FOR CONFERENCES
+
+HEALTH INSURANCE
+
+COFFEE, FRUIT AND SNACKS
+
+NURSERY VOUCHER
+
+INTERNAL TRAINING EVENTS
+
+WELCOME PACK
+
+FLEXIBLE REMUNERATION
+Capacidad de transformar parte del salario en pagos en especie como: cheques-guardería o Tickets Restaurant.
+
+What the FAQ?
+
+¿Puedo aplicar si vivo fuera de España?
+
+
+¿De qué fases consta el proceso de selección? ¿Será muy largo?
+
+
+
+¿Cómo hacen para mantener el buen rollo estando en full-remote?
+
+CTAIMA
+React Frontend Developer
+Tarragona or 100% remote
+SALARY
+€37 - 47K
+
+SHARE
+APPLY!
+CTAIMA
+Would you like to have a job like this?
+YES, I’M INTERESTED
+
+SHARE OFFER
+The Manfred team will accompany you throughout the process, being very transparent and providing answers to all your questions. We will prepare you for all the tests so that you can dazzle in them. We are very focused on making all our processes agile, with few candidates per position and with a guarantee that you will receive feedback from the company.
+
+IF YOU NEED ANY HELP, DO NOT HESITATE TO CONTACT:
+Sofia Nikolaeva
+Sofia Nikolaeva
+SCOUT
+Manfred logo
+EN
+TALENT
+Product
+Job Offers on Telegram
+Job Offers
+The Salary Compass
+Role guide
+SIGN UP
+COMPANIES
+Services
+Manfred Daily
+Member Get Member
+Newsletter
+The David Test
+RESOURCES
+Blog
+Developer Career Report
+Recruitment Process Comparator
+Helping juniors
+Hiring report
+MANFRED
+About us
+Ethical Code
+Battle report
+Working at Manfred
+© 2023 Manfred Tech S.L.U.
+Terms of use
+Privacy Policy
+Cookies
+
+WE'RE HIRING
+
+
+We're looking for a talented and passionate mid-senior Frontend developer to join our team. We're based in Menorca (Spain), but all our team members work remotely. So, if you're from Menorca (or wish to live here)... cool! But if not, it's not really a problem, not everybody can live in paradise :)
+
+Who are we?
+We are a well established start-up company offering software solutions for photographers. Our 10$ app PhotoPills is our swiss-knife tool that helps photographers to plan their most legendary shots. It's available for iOS and Android and we have more than 800,000 users worldwide. We also have an online Academy where photographers can learn photography and improve their photography skills.
+
+What do we offer?
+A unique opportunity to work on an innovative software solution in the field of Photography.
+Full-time job and competitive salary that will meet your knowledge and the weight of the job.
+Work remotely.
+Long-term vision.
+Frontend medior-senior developer
+The role?
+You will be part of an agile development team and will be focused on the frontend.
+
+Here's what we're after:
+
+You love to design and implement web applications
+You will not create something new without tests!
+You are passionate about the JS ecosystem, and have a strong background using Vue 3. React or Angular frameworks will be a plus
+You have experience 
+coding in typescript and es6
+using Tailwind CSS
+designing and coding reusable views, modules and components
+interacting with design and UX teams, using Figma and porting those designs to web
+consuming REST API / GraphQL endpoints. SSE will be a plus
+integrating 3rd party maps providers (Google Maps, Leaflet, Apple Maps, …)
+drawing elements over HTML canvas
+interacting with CI/CD pipelines
+with release management, hot deployments on prod environments focusing on the quality and availability of the service
+coding Electron webapps will be a plus
+coding high performance webapps will be a plus
+designing and interacting with WASM / emscripten modules will be a plus
+You feel comfortable with Docker. docker-compose and k8s will be a plus
+You love open source. Having some experience contributing to some projects will be a plus
+Interest and/or experience with GIS will be a plus
+Interest for the complete stack will be a plus (back, isec, devops)
+You've got some experience working on a dynamic product that is ever changing and evolving rapidly
+You love to create new products from scratch, being part of the designing process
+You feel comfortable working on your own, but also with teams in an agile manner
+You’re a proactive person
+A desire to innovate, invent and improve
+You speak and write fluent English and Spanish
+We're looing for people living in Spain or a close time zone.
+
+TAGS: #front #vue3 #emscripten #tailwindcss #maps #electron #webcanvas
+
+Studies?
+We’re looking for a Web developer passionate. No specific studies are required but a proactive and continuous-learning attitude will be mandatory.
+
+A Computer Science degree or similar will be a plus.
+
+Interested in one of the positions?
+Send us an email with your CV to info@photopills.com. We can’t wait to meet you!
+
+Manfred logo
+TALENT
+I WANT TO HIRE
+ABOUT US
+JOB OFFERS
+BLOG
+PRIVATE AREA
+EN
+Writefull
+equipo
+Offer managed by:
+
+Manfred
+Lucía Carmona Rebollo
+Lucía Carmona Rebollo
+SCOUT
+Offer only available in Spanish
+Senior React Developer
+SALARY
+€55-65K
+VARIABLE
++€6K
+REMOTE
+100%
+🌎 Full-Remote
+🎯 Product
+🗺 International team
+🕐 Flexible schedule
+💂 English
+💪 Technical challenge
+🤖 AI
+¡Es leviooosa, no leviosá! 🪄
+
+Writefull es la Hermione Granger de los textos científicos y académicos en la lengua de Shakespeare. Usan la Inteligencia Artificial para convertirse en el aliado perfecto en la redacción, ya que corrigen cada frase para sonar 'cooler', sin llegar a ser pedantes. 
+
+Vienen pisando fuerte y con las manos cargaditas de trabajo del bueno como si de Baltasar se tratasen (la mirra estaba ya muy vista). Así que si eres frontender, un/a entusiasta de las últimas tecnologías, de la escritura impecable o quieres aportar tu granito de arena al mundo científico, anímate a escribir tu próximo capítulo en Writefull ¡Te espero abajo para contarte más!
+
+What will you do?
+Aunque las referencias a Harry Potter siempre son certeras, seguro que te estarás preguntando (si es que no los conoces ya) quiénes son y qué hacen en Writefull. 
+
+Pues bien, Writefull nació como startup en 2016 de la mano de su producto, una herramienta de escritura y corrección de textos basada en inteligencia artificial. Su misión principal ha sido la de ayudar a mejorar la calidad de los textos escritos, brindando sugerencias de corrección gramatical, estilística y retroalimentación sobre la claridad y coherencia del texto. 
+
+Pero mejor te dejo un video ejemplificativo para que lo entiendas mejor ⬇️
+
+
+
+Ya tienen una cartera de clientes que crece día a día, desde la Universidad de Harvard hasta la Universidad de Sevilla 💃. Forman parte del grupo Digital Science, y actualmente están en proceso de integrarse con Overleaf, el editor más famoso a nivel científico, ¡una fantasía vaya!
+
+Y ahora es tu turno, ¿qué pintas tú en todo esto? 
+
+Pues verás, actualmente el equipo es algo pequeño y como están creciendo como la espuma necesitan manos extras, concretamente dos frontenders con mucho rodaje que puedan hacerse owners del frontal. ¿Eso significa que voy a estar solo? No. Ya hay una persona que está a cargo del front, y otra que trabaja de manera esporádica a media jornada, que os llevarán de la mano.
+
+La idea es que os puedan acompañar hasta que os sintáis en vuestra salsa y le cojáis el testigo al que actualmente está como responsable, ya que, como Anakin Skywalker, quiere pasarse al lado oscuro y lo seguiréis teniendo como compañero, pero ¡en esta ocasión como backender!
+
+¿Quieres saber lo que esperarán de ti? ¡Sigue leyendo!
+
+
+
+WritefullYour day ZERO
+
+
+In 1 month
+El primer mes será tu momento de adaptación. Conocerás a los miembros del equipo y podrás tomarte una cerveza/café de manera virtual.
+
+Te darán acceso a todas las herramientas e irás de la mano de Jony para que te sientas arropado en la familiarización con el producto. 
+
+Este mes será sobre todo de formación y aclimatación, te darán contexto de todo y te ilustrarán un plan de transmisión de conocimiento. 
+
+Además, si quieres, podréis veros las caras por febrero, ya que está prevista una quedada con todo el equipo que incluirá a Digital Science por esas fechas.
+
+Your responsibilities
+Colaborarás en el desarrollo y la mejora del editor de textos de Writefull, trabajando de la mano del equipo existente.
+
+Serás owner de tus propios desarrollos y contribuirás en la creación de código de calidad siguiendo buenas prácticas.
+
+Participarás en la integración y testeo del producto para garantizar la calidad y la estabilidad del mismo.
+
+Trabajarás en la extensión de Chrome de Writefull, contribuyendo a la integración con Overleaf, el editor más famoso a nivel científico.
+
+Ayudarás a evolucionar el producto en una librería que pueda integrarse en el sistema operativo en el futuro.
+
+How will you do it?
+¡Con creatividad y un equipo a tu lado of course! Tendrás gente en la que apoyarte hasta que conozcas la arquitectura casi tan bien como a ti mismo/a. ¿Pero cómo será tu día a día?
+
+Se reúnen todos los lunes para empezar la semana con buen pie, hacer una retrospectiva de la semana anterior y planificar los siguientes pasos de cara a los próximos días. Además, en esta weekly podréis ver problemas y atascos que tengáis para intentar desbloquear cualquier cosa que os haga de stopper. 
+
+Asimismo, para que no os perdáis nada de lo que estáis haciendo y tengáis contexto de todo, cada día tendréis un stand up asíncrono en el que contar lo que habéis estado trabajando y así estéis al tanto de todo 🙌
+
+
+
+Son bastante flexibles y de hecho esperan de ti que tengas cierta autonomía, ya que te darán libertad tanto horaria como técnica a la hora de buscar las mejores herramientas y soluciones. Es por esto mismo, que como tienen un stack flexible, utilizan docker para evitar problemas y poder homogeneizar todo. 
+
+No obstante, para que tengas contexto de lo que tienen montado, actualmente el front lo tienen en React, con Web Components en algunas aplicaciones y utilizando herramientas como Tailwind. Para el back, utilizan Python para los microservicios de IA y APIs en JS con Node, todo ello montado en GCP y Kubernetes.
+
+When will you work?
+Ya sea que te guste madrugar o necesites algo de cancha para dejar a los peques en el cole, podrás organizarte con flexibilidad, ya que si este apartado fuera una canción sería “y nos dieron las 10” de Joaquín Sabina. ¿Por qué? Porque te encontrarás una empresa que se rige por unas dinámicas por objetivos y apuesta por la flexibilidad horaria. 
+
+Eso sí, intentan hacer lo factible para coordinarse y coincidir en ciertas horas clave en las que podáis estar todos, además de estar disponibles por Slack 🙌🏻
+
+
+
+WORKING DAY
+FULL-TIME
+
+
+HOLIDAYS
+25 DAYS
+
+
+WORKING HOURS
+FLEXIBLE
+Where will you work?
+REMOTE
+100%
+¡Desde la comodidad de tu casa! 
+
+No, no te falla la vista, esta posición es 100% remota y es que ya empieza a hacer frío, así que nada mejor que poder trabajar desde tu silla con mil mantas por encima y un chocolatito caliente a tu lado.
+
+Who will you work with?
+Ahora que ya sabes qué harás, cómo, cuándo y dónde, querrás conocer una parte fundamental de tu día a día y es ¿con quién vas a trabajar?
+
+Pues bien, actualmente son 6 personas en el equipo, así que para hacerte un esquema mental de a quién te encontrarás por las meets de Google, te contamos cómo tienen montado el equipo: 
+
+Jonatan Ramos (Tech lead): Jonathan, más conocido como Jony, es un pesimista esperanzado al que le encanta construir cosas, ir de excursión con su perra, tocar la guitarra y frustrarse con juegos AFPS.
+Craig Stweard (Customer and Institutions success): Responsable de todo lo relacionado con el cliente. Disfruta de hablar con la gente, pero irónicamente prefiere quedarse en casa antes que salir.
+Inti Beer (Machine Learning engineer): Corredor empedernido y skater, lo suyo es escribir Python y diseñar soluciones digitales.
+Hilde van Zeeland (Chief Applied Linguist): Le encantan los idiomas, leer y escribir. Ayuda a redactar copias, probar los productos y comunicar sobre ellos.
+Juan Castro (CEO): Le gusta la Inteligencia Artificial y cocinar. Trabaja en el desarrollo de modelos de lenguaje natural y de procesado de datos.
+Alberto Villar (CTO): Nostálgico de las aventuras gráficas de los 90, le gusta la Inteligencia Artificial, la psicología cognitiva y jugar con microcontroladores.
+
+
+What are they asking for?
+Seguro que a estas alturas te mueres por saber qué te van a pedir y si habrá match o no con tus skills. Pues bien, déjame que te desvele el misterio y te cuente que en el equipo son bastante flexibles y se enfocan en encontrar una persona que tenga conocimientos sólidos y muchas ganas. Es por eso que están buscando una persona que:
+
+Tenga sólidos conocimientos en Javascript y que React sea lo suyo. 
+Independientemente de si tienes 5, 6 o 7 años de experiencia, seas resolutivo/a y tengas capacidad de buscar soluciones a los problemas que vayan surgiendo con autonomía
+Aunque no seas Shakespeare, sepas desenvolverte bien en inglés como para usarlo en tu día a día. 
+Te preocupes por hacer código de calidad, tengas muy arraigadas las buenas prácticas y tengas experiencia haciendo testing. 
+Por último, si quieres ir a por el 10/10 se fijarán también en que:
+
+Vengas de producto o de entorno startup
+A pesar de que no sea tu fuerte, tengas algo de intuición UX/UI
+Technologies
+Non-negotiable
+
+JavaScript
+ADVANCED
+
+React
+ADVANCED
+This would be good
+
+Tailwind
+INTERMEDIATE
+
+Docker
+INTERMEDIATE
+
+WebComponents
+INTERMEDIATE
+Other skills
+Non-negotiable
+
+Attention to detail
+
+Capacity for self-management
+
+Team player
+This would be good
+
+Adaptability to change
+
+Autonomy in learning
+This gives extra points
+
+Resistance to frustration
+
+Proactivity
+What are they offering?
+SALARY
+€55-65K
+VARIABLE
++€6K
+SCHEDULE
+FLEXIBLE
+REMOTE
+100%
+🏝 25 días de vacaciones (los 22 de toda la vida + tu cumpleaños + nochebuena + fin de año)
+
+Perks
+
+BUDGET FOR TRAINING
+
+BUDGET FOR CONFERENCES
+
+DYNAMICS AND TEAMBUILDING EVENTS
+
+POSSIBILITY TO CHOOSE YOUR DEVICES
+What the FAQ?
+
+¿Puedo aplicar si vivo fuera de España?
+
+
+¿Cómo será el proceso de selección?
+
+Writefull
+Senior React Developer
+100% remote
+SALARY
+€55 - 65K
+VARIABLE
++€6K
+
+SHARE
+APPLY!
+Writefull
+Would you like to have a job like this?
+YES, I’M INTERESTED
+
+SHARE OFFER
+The Manfred team will accompany you throughout the process, being very transparent and providing answers to all your questions. We will prepare you for all the tests so that you can dazzle in them. We are very focused on making all our processes agile, with few candidates per position and with a guarantee that you will receive feedback from the company.
+
+IF YOU NEED ANY HELP, DO NOT HESITATE TO CONTACT:
+Lucía Carmona Rebollo
+Lucía Carmona Rebollo
+SCOUT
+Manfred logo
+EN
+TALENT
+Product
+Job Offers on Telegram
+Job Offers
+The Salary Compass
+Role guide
+SIGN UP
+COMPANIES
+Services
+Manfred Daily
+Member Get Member
+Newsletter
+The David Test
+RESOURCES
+Blog
+Developer Career Report
+Recruitment Process Comparator
+Helping juniors
+Hiring report
+MANFRED
+About us
+Ethical Code
+Battle report
+Working at Manfred
+© 2023 Manfred Tech S.L.U.
+Terms of use
+Privacy Policy
+Cookies
+
+[Hiring] Full Stack Engineer @GIG-A
+Nov 06, 2023 - GIG-A is hiring a remote Full Stack Engineer. 💸 Salary: €50k - €70k. 📍Location: EMEA.
+
+ 
+
+はじめまして  /hajimemashite/  'nice to meet you'
+
+We are a financial technology company that offers mobile daily banking services in Japan. We help customers open a local bank account, manage everyday spending, use overdraft, and transfer money back home.
+
+About your role:
+
+Your mission as a full stack engineer in the product engineering team is to help customers safely onboard our services and to assure they can reliably manage their everyday spending via payments, cards, and cash withdrawals.
+
+Objectives of your role
+
+Work across the full stack, building highly scalable distributed solutions that enable positive and secure user experiences and measurable business growth.
+Develop new features and infrastructure in support of rapidly emerging business and product requirements.
+Assume initiative to propose and deliver a compelling technical solution from early proof-of-concept to testing against user requirements to market-ready release.
+Ensure application performance, uptime, and scale, maintaining high standards of code quality and thoughtful application UX/UI design.
+Daily and monthly responsibilities
+
+Design and build end-to-end systems optimized for security, speed and scale.
+Participate in all aspects of iterative software development including design, implementation, testing, deployment, publishing, and troubleshooting.
+Search, learn, and familiarize yourself with current tech trends. Discover and implement new technologies that yield a competitive advantage.
+Collaborate across multiple ethnic cultures via Slack, Jira comments, Confluence documents, and frequent video conferences.
+Team and culture:
+
+Born global and born remote
+We are nomads with the world as our home. We demonstrate with kind actions that every employee belongs to our  一門  /ichimon/  'clan'.
+We are our customers
+It's personal, because we have lived through the pain of the underbanked. We empathize with our customers and adapt to their feedback.
+Bring choices to the table
+We are proactive in seeking out challenges and opportunities. We are transparent in communication and propose multiple courses of action to deliver a solution.
+Become a learning machine
+We continuously upskill to achieve freedom of maneuver with our team and to triumph over challenges.
+Required skills and qualifications:
+
+Experience working with Java, Spring Boot, Flutter & AWS.
+Bonus points for experience working with Kotlin, AWS, CI/CD, RDS, Postgres.
+You are motivated by the impact that your work has.
+You enjoy writing testable code and believe in Test Driven Development.
+Fluent English is a must.
+You are a confident communicator. Communicating with teammates, collecting requirements, describing product features, demoing work in progress, and providing updates are integral parts of your work.
+You have a self-starter mindset: you enjoy working in a fast-paced team where you can take the initiative. You are autonomous and independent, but you also know when to collaborate with the rest of the team.
+You are a risk-taker: you’re not afraid of challenges, and you think being questioned on your assumptions and decisions helps you grow.
+Previous experience with building finance/banking products.
+Bonus points if you speak Japanese.
+What we offer:
+
+Continuous learning environment.
+Improve your technical skill-set.
+Trust and freedom.
+Supportive and highly skilled team members.
+Great culture of transparency and openness.
+Opportunity to make a real impact in customers’ lives.
+ 
+
+About The Company
+
+GIG-A
+100% mobile, simple and hassle free bank account
+Estonian/Japanese fintech startup believing that opening a bank account in Japan should take only a few minutes on your mobile. Banking services must be easy to use and everybody should be able to access the full potential of financial services regardless of how they work or where they come from. Personal financial control centre offered by GIG-A will help to unleash the potential of our users, helping them to create more trust and elevate their lives.
+
+ 
+
+Check us out:
+https://www.gig-a.jp/
+
+Principal Software Engineer, Backend - Remote EU
+€100k – €150k
+Published: 1 week ago
+Save
+Apply Now
+Avatar for Syrup Tech
+Syrup Tech
+Predictive software for inventory decisions in commerce. Powered by AI
+image
+Boston
+image
+11-50
+image
+Startup
+image
+SaaS
+Enterprise Software
+B2B
+See all jobs at Syrup Tech image
+Location
+Portugal
+Job Type
+Full Time
+Visa Sponsorship
+Not Available
+Relocation
+Allowed
+The Role
+About Syrup
+🌍 In a world with deep supply chain disruptions, true omni-channel networks, and sustainability-minded consumers, there is a need for next-generation inventory systems.
+
+🍯 That’s why we are building Syrup, an AI-powered predictive software for inventory decisions in commerce. By leveraging more data in real-time, we empower merchandising and planning teams with allocation, ordering, and planning recommendations.
+
+🚀 Our mission is for commerce to no longer be a wasteful industry, as our intelligent platform empowers inventory excellence at every step in the value chain.
+
+👔 We're VC-backed by Google's AI fund (Gradient Ventures), as well as former executives from Adidas, Zalando, ASOS, Reebok, Bonobos, Salesforce, ThredUp, and Stripe. We're working with fast-growing brands such as Faherty, Reformation, and Desigual.
+
+About The Role
+As a Principal Software Engineer, you will join our core team and lead the development of our innovative, new application. This is a rare opportunity to be part of a rapidly growing machine learning startup and make a significant impact in a pivotal role. You'll collaborate with a talented team of data scientists, engineers, business experts, and visionary thinkers. Join us on our mission to empower better decision-making through intuitive and predictive software.
+
+You Will
+Collaborate closely with product management and cross-functional teams to understand requirements and translate them into scalable and performant software solutions.
+
+Drive architecture and design of the application stack, making strategic decisions to drive innovation and maintain flexibility for future growth.
+
+Design and implement clean, extensible, and scalable solutions, leveraging modern server-side frameworks and adhering to best practices.
+
+Collaborate with fellow engineers to establish and maintain development standards, code quality, and efficient workflows.
+
+Provide technical guidance and mentorship to junior members of the team, fostering a culture of continuous learning and growth.
+
+Stay up-to-date with industry trends and emerging technologies, identifying opportunities to improve our application and development processes.
+
+Play an active role in code reviews, ensuring adherence to coding standards and best practices.
+
+Troubleshoot and resolve complex technical issues, ensuring the smooth functioning of the application.
+
+You Have
+A proven track record of success in leading the development of applications from inception to production, specifically with high-quality SaaS products.
+
+Strong expertise in designing scalable, extensible, and performant solutions.
+
+Proficiency in system architecture and data modeling, with a focus on optimizing data flow and storage.
+
+Strong problem-solving and troubleshooting skills, with the ability to think critically and propose innovative solutions.
+
+Excellent communication and collaboration skills, with the ability to work effectively in cross-functional teams.
+
+A passion for staying up-to-date with the latest industry trends and technologies.
+
+Leadership abilities, with experience mentoring and guiding junior engineers.
+
+7+ years of successful experience as a backend developer in a fast-paced startup environment.
+
+Experience in incremental feature development, scalability improvements, and performance enhancements.
+
+Deep technical expertise in:
+Backend development using JavaScript/TypeScript.
+
+Designing clean and scalable APIs (GraphQL/REST/tRPC) with frameworks like Express.js or NestJS.
+
+Familiarity with async workers and distributed systems.
+
+System architecture and data model design, including optimizing data flow from the database to the user's browser.
+
+Optimizing data models and access patterns using databases like PostgreSQL, and search services such as ElasticSearch, OpenSearch or Redis Search.
+
+Cloud-based deployment and operation, leveraging services like RDS or Aurora, ECS Fargate, and other AWS ecosystem components.
+
+Infrastructure automation and CI/CD practices, maximizing the potential of cloud-based infrastructure in the development lifecycle (e.g., GitHub Actions, Pulumi, Terraform).
+
+What We Offer
+Fun, friendly, respectful, collaborative, diverse, driven, mission-oriented – that’s Syrup! We're a group of driven people who want to make a difference in the world by building game-changing software. We care deeply about people, planet and product. Concretely, we offer:
+
+Remote First: We’re a remote first team across Europe and East Coast North America. For our colleagues in New York, you can come into our office in SoHo as often as you like.
+
+Syrup summits: We bring the whole global team together every quarter for our Syrup summits. Previous locations: Barcelona, Madrid, Los Angeles, Warsaw, Boston, New York.
+
+Equity: We offer generous equity compensation for all our early employees.
+
+Generous health, vision, and dental coverage to our employees.
+
+Generous PTO to take all the time you need, whenever you need it.
+
+We offer competitive base pay with the EU salary range of 100,000-150,000 EUR and a similarly competitive range in other locations, commensurate with experience, generous early-stage equity package, and benefits including medical/dental/vision.
+
+
+
+Back End Developer (Node.js)
+Outvio is a fast-growing startup that develops the next generation of eCommerce. For that we need someone with great skills and exceptional attitude, hungry to grow professionally and personally, to join our awesome development team.
+
+If you have ambition, a can-do attitude, like the idea of building something big with your own hands, and are motivated to commit to a long-term project with great growth opportunities, then you will fit right in!
+
+What you will do at Outvio:
+Help hands-on to develop the next generation of eCommerce
+
+Develop and manage all server-side components
+
+Groom solutions and services that are scalable up to 100x
+
+Develop high-performance application by writing reusable and efficient code covered by tests
+
+Implement and support internal and external APIs and integrations
+
+Constantly develop new app features/functions and improve the existing ones based on product roadmap & company strategy
+
+Collaborate with front-end developers to ensure smooth integration of elements
+
+Actively recommend improvements to processes and technologies and document them
+
+What we expect you to bring:
+Experience with Express, Node, Nest.js and Typescript
+
+3+ years of professional software engineering experience
+
+Experience with SQL/NoSQL databases
+
+Working knowledge of English
+
+A get-things-done attitude and great attention to detail
+
+Interest or experience in:
+Streaming systems & Message brokers (Kafka, RabbitMQ)
+
+Full-text search systems (Elasticsearch)
+
+MongoDB
+
+AWS Cloud services
+
+Go
+
+Docker
+
+Redis
+
+What we will deliver:
+The opportunity to contribute to a product that is revolutionizing the shopping experience for millions of people 🚀
+Highly competitive salary
+Excellent professional and personal development opportunities
+Free drinks (coffee, tea, cider, beer) always available for your enjoyment ☕️ 🍺 🥤
+Cool office in the center of Tallinn (Estonia), the European Silicon Valley
+Flat hierarchy and friendly atmosphere
+Fun team events with the best team money can't buy 🥳
+Extraordinary team spirit and a vibrant culture fostered by our close-knit team who work together in our cozy office on a daily basis 🤩
+Practical information:
+Depending on the position, work can be either on-site for individuals living in Tallinn, Estonia, or remote for those residing outside Estonia within the EU.
+
+About us:
+Outvio is not another typical modern start-up:
+
+• Our people meet each other in person every day to build something great together and we would not have it any other way (although we do have some exceptional teammates working remotely from other countries).
+
+• We take pride in being passionate about growing our career as well as our product (we shamelessly believe that work is a big part of life and should be a source of personal fulfilment and satisfaction and if it always feels like a chore and you want to do less of it, then you just need a better job).
+
+• We are bold about protecting our culture of respect, commitment and determination as we grow (we know that the best and smartest people are confident but humble, there is no room for divas nor egos in Outvio, and we evaluate everyone based on their contribution, not politics or lobby).
+
+• We have fun doing what we do (one of the best side effects of building a team of like-minded people is that you end up with friends, instead of colleagues... real friends, that don't need censorship, that you can joke with about anything, have fun with while at work or when on holidays, and count on no-matter-what).
+
+
+
+I guess you could say we are an old-school startup. We work hard because we love what we do.
+
+If you are looking for a real, demanding but highly rewarding experience to grow your career while truly contributing to building a product you can be proud of, then Outvio is the place to be.
+
+Senior Software Engineer, Solutions at Pagoda Platform
+Location: Remote, Work from Anywhere
+Salary: $165,750 Annually
+Benefits: Paid Vacation
+Posted: 1 month ago | Full-time | International
+Pagoda Platform
+Pagoda Platform
+Title: Senior Software Engineer, Solutions
+
+Location: Remote – North America, South America, UK/Ireland, Europe, Africa
+
+About Pagoda
+
+Pagoda is shepherding a future where NEAR becomes the blockchain operating system. We believe that re-inventing how software is made and distributed is our greatest opportunity to open economic access to those who are not fully integrated into the global economy. Our products empower people to find opportunity, invent new experiences, and collaborate. Let’s build an Open Web world. A world where people control their assets, data, and power of governance.
+
+About The Role
+
+Pagoda Solutions team is looking for a senior software engineer to work on ecosystem critical features and solutions. You will be working through the whole range of NEAR Protocol stack to find opportunities for critical improvements and features that have a huge impact on the growth of the ecosystem. You will work on different parts of the stack including low-level code, protocol features, infrastructure that will create new products directly on protocol level while having a view on products that are being built on NEAR Protocol.
+
+You will be expected to fully own various components and drive their implementation from beginning to end, including the design, the implementation, the maintenance, and the documentation. You will be surrounded by highly productive and meticulous engineers who will be holding you to the same standards.
+
+What You’ll Be Doing
+
+Discover ecosystem critical feature needs, design and implement them;
+Work with internal and external product managers, technical stakeholders to gather feedback and work with internal teams to deliver product/protocol improvements.
+Work with the multitude of teams to implement features that are important to the success of external and internal stakeholders;
+Keep a close eye on innovations on web3 space, gather insights and implement critical features to enable web3 developers on NEAR Protocol.
+Communication and collaboration with a fully distributed team.
+What We’re Looking For
+
+Ability to quickly learn and grasp complex engineering concepts; we expect you to obtain a very good understanding of the NEAR protocol, and several ETH L2 technologies;
+Experience or ability to work with systems-level languages, Rust is preferred, but Go and C would also be eligible;
+You should be a great communicator and remain calm under pressure or when juggling multiple priorities;
+Being comfortable with diving into multiple parts of a technology stack and quickly navigating through it;
+Bachelor’s Degree in Computer Science or related fields is a must
+We’d Love If You Have
+
+Familiarity with cryptography
+An understanding of rollups and layer 2 technologies
+Familiarity with distributed systems and p2p networks
+Experience working at a startup;
+Prior experience with blockchain technologies
+Here’s What Our Interview Process Looks Like
+
+Internal Recruiter Call (30 to 45 minutes)
+Meet with the Hiring Manager (30-45 minutes)
+Technical Interviews (3 x 60 minutes)
+Pagoda Values Interview (30 to 45 minutes)
+Compensation
+
+The base salary range for this role is $165,750 – $195,000. This reflects the minimum and maximum range across all US locations. This does not include bonus, incentives, or benefits.
+
+The actual base pay is dependent upon many factors, such as: leveling, relevant skills, and work location. If you are based outside of the US, there are other geographic considerations that may impact your final compensation. Your recruiter can share more about the compensation and benefits applicable to your preferred location during the hiring process.
+
+Benefits & Perks
+
+Flexible Annual Leave / PTO with an encouraged 20 day per year minimum
+Paid Holiday Week: the last week of the year
+Paid Wellness Week: the first week of July
+$2,000 Yearly Continued Education Reimbursement
+$2,000 Home Office Setup Reimbursement
+Co-working Space Reimbursement
+Company Retreats (2023’s was in Madrid!) & Team Offsites
+Mental Health Support and access to licensed therapists through Spill, 100% paid by Pagoda
+
+Sr. Full Stack - Engineer - Spain Remote
+Hi, thanks for reading about our Senior Full Stack Engineer opportunity! We're glad you're here.
+
+Did you know that Knack is and has always been a 100% remote company? We started as a remote company so we know what it takes to ensure the success of a distributed team. 
+
+Knack is a code-free platform used by thousands of customers — from non-profits to the world’s biggest companies — to easily build custom apps, workflows, and databases.
+
+We need a brilliant Senior Full Stack JavaScript engineer to help us meet the enormous challenges around managing complex data with speed, reliability, and security.
+
+We’re looking for someone who’s not just an expert in Node and Javascript, but who also cares deeply about code quality and architecture, and enjoys diving into the deep end of challenging work.
+
+We're looking for applicants that are opinionated about what matters to them and want to join a fun, passionate, close-knit crew of high-quality human beings that, above all, enjoy working together. Hopefully, that's you!
+
+Super excited to apply?! Click HERE to apply now!
+
+Please note: this is a remote role based in Spain.
+In this role, you will:
+Leverage Node / Vue.js / React.js to craft clean, maintainable, extensible, secure code
+Drive innovative problem solving on challenging engineering problems, including: Distributed Caching, Object version control / history, Real-time concurrency, and Performance optimizations
+Refactor and modernize areas of the codebase, with an eye towards increasing maintainability, performance, and rapid iteration
+Collaborate with a broad set of stakeholders to enable well-informed business decision-making by: Bringing appropriate information to discussions, Clarifying scope and accurately presenting tradeoffs, Clearly communicating potential scope changes and alternatives along with associated pros / cons
+Be an inspiring and supportive teammate by participating in PR reviews, pair programming, active feedback, idea generation, teaching, learning, and generally being a delightful human being.
+We're looking for someone who is:
+A problem solver. You aren't afraid to go deep, experiment, learn on the fly, and do the work.
+Passionate about turning complex business requirements into elegant software that delights users.
+Flexible. When given a UX spec and requirements, you are able to achieve the resulting behavior, look and feel, as well as the associated APIs to drive the backend data.
+Experienced as a meaningful contributor to a data-driven architecture at scale.
+Humble but opinionated. You have lots of ideas, yet you are happy to shift directions when a better path emerges. You take your work much more seriously than you take yourself.
+An active collaborator. You want feedback on your work early and often, and you get a kick out of a collaborative process because it challenges you to do better work.
+Hungry for meaningful work, and space to do it. Knack is a complex product in a complex space and the work is extremely challenging - but also deeply rewarding. Knack makes a major impact in the work of thousands of companies and organizations.
+Our Stack:
+Front-end:  ES6, React.js, Vue, Vuex, Vue Router, BackboneJS, Webpack, SCSS
+Back-end: Node.js, Express.js, Nest.js
+Testing: Mocha Unit Tests, Cypress.js, Playwright, Ghost Inspector
+DevOps:
+AWS - we’ve drunk the kool-aid and use AWS across the board
+Graylog, Elasticsearch, Logstash, Prometheus, Grafana - monitoring, and logging
+Docker, ECS, Terraform - continued container expansion
+PostgreSQL, MongoDB, Solr, Redis - data persistence
+
+✨ Benefits ✨ 
+The biggest benefit of Knack is getting to work alongside our awesome team of Knackleheads. We're a funny, humble, talented team of delightful human beings that, above all, enjoy working with each other, growing with each other, and supporting each other.
+
+These benefits aren't that bad either, though:
+🛫 Paid Corporate Retreats: we get together once a year at amazing locations to do normal human being things in person. We pay for your flight, lodging, and meals.
+🚑 HealthCare: we offer private health insurance through Mapfre.
+☮ Equal opportunity and Diversity: we push everyone to maximize their impact on our product and company--we strongly value all of our people, regardless of title or seniority. We believe that different perspectives and backgrounds are what makes a company flourish. That's why we're proud to be an inclusive company with values grounded in equality and ethics, where we embrace diversity.
+💻 Tech: we provide a top-of-the-line MacBook.
+🧠 Learning Credits - An annual allowance is provided to stay on top of your game with classes, books, and conferences.
+🤩 Referral Bonus: we think you're great which means you know awesome people! we offer a referral bonus to anyone you refer for an open position once they are hired as an official Knackster!
+🏠 Workstation Allowance: we want your work from home space to have everything you need! we offer a workstation allowance to help with that!
+About Knack
+👋 Hi! We're Knack 😀
+
+Get to know more about Knack and the team by clicking HERE!
+
+👀 How To Apply 👀
+
+Are you currently so excited to apply that you can barely type? ⚡Then we want to hear from you! You can apply for this position by filling out the application.
+
+We review applications in batches, so don't worry if you don't hear from us right away. Qualified candidates will move on to video interviews to discuss the position in detail, meet the team, and talk through the fit. 
+
+Front End Developer – Hoogeveen
+LOCATION
+Hoogeveen, Drenthe, Netherlands
+SALARY
+€6000 - €8000 per month + + Bonus + Benefits
+JOB TYPE
+Perm
+Share
+
+ 
+
+ 
+
+ 
+
+Back to search
+No longer accepting applications. A full list of our vacancies can be found here Job Search
+Front End Developer – Global Fitness Movement – Hoogeveen
+
+(Tech stack: Front End Developer, JavaScript, jQuery, HTML5, CSS3, Angular, KnockoutJS, BackboneJS, React, VueJS, Typescript, Web, UI, UX, User Interface, User Experience, Front End Developer)
+
+Born in 2012 in California, our client began development on an app and website that made finding and booking classes effortless for fitness goers across the state. The company is now changing how people live their lives, bringing together a community of enthusiasts, helping people find the activities that make their true selves come alive or supporting small businesses and studios across the entire globe. They believe that being active is the key to living a happy and healthy life. Our client is now active in over 15 countries and continues rapid growth on a yearly basis.
+
+It takes a team to make things happen and this team includes some of the most talented Front End Developer (JavaScript, jQuery, Angular) in the industry. They don’t just have the best developers – but also the best karaoke stars, community activists and amateur chefs. Together, they are making the world an active place, which makes every day pretty damn gratifying.
+
+They are looking for Front End Developer with experience in some or all of the following (full training will be provided to fill any gaps in your skill set): JavaScript, LESS, SASS, ES6, jQuery, HTML5, CSS3, Angular, KnockoutJS, BackboneJS, React, VueJS, Typescript and AJAX.
+
+All positions come with the following benefits:
+
+Annual bonus.
+Free medical, dental and vision coverage.
+Flexible work hours.
+€5,000 training allowance.
+Healthy (and unhealthy) snacks.
+Charitable giving programs.
+Virtual team classes, events and happy hours.
+There is no ‘I’ in team. By working with talented individuals and developing upon innovative ideas, the team continues to succeed and grow. They are a global movement with big plans for the future. It’s an incredible opportunity so if you’re interested, act and apply today!
+
+Location: Hoogeveen, Netherlands / Remote Working
+
+Salary: €6,000 – €8,000 + Bonus + Pension + Benefits
+
+NOIRNETHERLANDSREC
+NOIREUROPEREC
+
+Senior Front-End Engineer
+€50k – €78k • 0.02% – 0.23%
+Published: 2 weeks ago
+Save
+Apply Now
+Avatar for Secfix
+Secfix
+We help companies get secured and ISO 27001 compliant in weeks instead of months
+image
+Munich
+image
+11-50
+image
+SaaS
+Information Technology
+Information Security
+image
+Healthcare
+Marketplaces
+Cyber Security
+See all jobs at Secfix image
+Location
+Berlin
+Job Type
+Full Time
+Visa Sponsorship
+Not Available
+Relocation
+Allowed
+The Role
+About Secfix
+
+Secfix automates security compliance for SMBs in Europe. We help companies get and stay compliant with standards such as ISO 27001, GDPR, TISAX, and SOC 2 in weeks rather than months.
+
+Our platform integrates with a company’s tech stack (such as GCP, AWS, Azure, Google Workspaces, Jira, Gitlab, etc.), automatically extracts the data needed for compliance, and creates a checklist to become and remain certified. Our fastest customer finished their certification in 4 weeks instead of 12+ months, typically seen from older institutions.
+
+We raised pre-seed funding from top German angel investors and recently closed our seed round from leading UK and German VCs after impressive growth. Now, the goal (with your help) is to become the market leader.
+
+About the role:
+
+As a small team, we are all generalists and constantly picking up new challenges. Regarding product and code, we’re looking to work with experienced people who can pick a problem and solve it. We use TypeScript and want to build more scalable systems so we can continuously make progress on a solid foundation. We don’t expect you to have a background in everything we use but expect strong JavaScript fundamentals and a background working with Angular and TypeScript. Every feature that is being ideated will go through you, and every future front-end engineer hire will live the engineering values that you will shape with us and live by. You'll get first-hand exposure to what it means to build and scale a remote software startup.
+
+Preferred experience & culture:
+
+You love iterating and taking pride in owning customer-facing features from ideas to going live and strive for great visuals and usability.
+
+You are a team player and communicate with other members and set up calls with customers if necessary to get feedback directly.
+
+You have strong JavaScript fundamentals working with Angular and TypeScript with more than 7 years of experience in front-end development. We don’t expect you to have a background in every technology we use but you are able to learn quickly on your own.
+
+In our current growth stage, we want to achieve a lot with a small team. Priorities can change fast. Hence you are a strong believer that hard work and flexibility are qualities that an early startup employee should live by. You can pick up a customer problem, define it, and work on it.
+
+You love speed and have high standards in writing clean, maintainable, and testable code.
+
+You have 3+ years of experience in a fast-paced tech environment, startup, or scale-up where engineers wear multiple hats and define the products together with users.
+
+You are a force multiplier for your team. You always catch up with new front-end trends, love building reusable components, and helping other engineers become better day by day.
+
+You can communicate and structure your thoughts well both inside and outside of your team to ensure we ship products in time without getting lost in details.
+
+You have experience in mentoring junior developers or leading a small team.
+
+You have experience in working and improving a remote team culture.
+
+Responsibilities
+
+You’ll design, develop, and maintain new user-facing features with beautiful and scalable UI components using Angular and TypeScript
+
+You’ll contribute to new and existing products by shaping features with product and design teams.
+
+You’ll implement state management and improved authentication across the platform
+
+You’ll implement complex Angular components from drag & drop to the virtualized rendering of large data collections
+
+You’ll mentor and develop junior engineers to help them become expert Secfixers
+
+You’ll keep learning new technologies to improve our product and will structure complex product in simple deliverables
+
+You’ll redefine best-in-class software development processes so that we can build an opinionated product for the European SMB market.
+
+You’ll work closely with founders, tech lead, other team members, and users to ship features on schedule.
+
+Our Tech
+
+Angular frontend with styled-components & TypeScript
+
+Ngrx State management
+
+Java Springboot, Node Nest.js, Postgres, and RDS as backend
+
+Hosted on AWS with ECS, EKS
+
+Gitlab, Slack, Notion, Gather.town for communication and documentation
+
+Clickup for project management
+
+Design system with Bootstrap Angular component library
+
+We are very proud of our Secfix values - and look for candidates who share them. They are:
+
+We are obsessed with our customers. We start with the customer and work our way backward to create amazing products they love.
+
+We build everything in a smart way. We love working by YCombinator's principles and preach those to our team.
+
+We create trust within our organisation. Transparency and ethics are within our DNA.
+
+We are hacky. A functional prototype delivered within 2 weeks is worth more than a perfect solution delivered in 2 months.
+
+We take ownership. Building a startup is about ownership and being accountable for timely delivery.
+
+We are leaders of remote work. We are passionately building a culture where people can be productive working from anywhere.
+
+Benefits you get at Secfix:
+
+We are backed by top VCs and accelerators. Get direct access to world-class mentors.
+
+Industry-competitive base salary and generous equity package. We pay local rates that are at or above the market. We share this philosophy with GitLab.
+
+Secfix is run by international founders in Germany. We can help you move to Germany and get a visa or just hire you locally with our partner Deel. And we have a track record! Our Customer Success Manager moved to Germany from Brazil and our Account Executive from LA.
+
+Receive the latest tech equipment (MacBook, monitors, headphones)
+
+Health insurance
+
+Remote Workspace budget to make your home office great
+
+Access to co-working around the world
+
+Flexible Work Hours and Location
+
+26 vacation days per year, in addition to local Public Holidays
+
+100% remote work - enhanced by our virtual office in _Gather _
+
+Virtual and on-site Team Building Activities, Lunch and Learns, and other Company-Wide Events
+
+A Personal Development Budget of 1,000 EUR per year - available for whatever you wish to support your health and fitness, mental health, and learning & development
+
+Have more ideas for perks? You can make them a reality at Secfix 🙂
+
+Interview Process:
+
+30 min - Screening call
+
+30 min - Interview with our Chief of Staff
+
+Tech Assessment (either take-home or live)
+
+2h - Final "Virtual On-Site Interview" with team & Co-Founders in Gather, our virtual office
+
+Please note: We are an equal-opportunity employer and remote-only company. At this time, we can support hiring only within EU time zones. We work in sync using Gather as our virtual office. As a small fast-growing company, we believe in the need for an in-sync component of daily communication and therefore cannot support 100% asynchronous work. Read more about our Remote Culture here.
+
+Backend Software Engineer (Elixir, GraphQL) - Digital Markets
+Barcelona 
+Technology
+Description
+About Gartner Digital Markets: 
+
+Gartner Digital Markets is a business unit within Gartner.  Our mission is to help small businesses make the right technology choices and find the tools they need to grow, optimize, and become more effective at what they do.  The business is comprised of four top brands—Capterra, Software Advice,GetApp and UpCity.  For candidates interested in taking their next career step in the technology space, Gartner Digital Markets offers the fast pace and excitement of working for a startup, the stability and resources of a large, established organization, and the opportunity to be on the front lines of innovation in an industry that is always growing and transforming.
+
+What we´re looking for:
+Gartner Digital Markets is looking for a Software Engineer to join our API Platform team. Our current focus area is a GraphQL API for all our applications, to provide a unified data model, to fulfill the data need across all GDM sites.This position will include hands-on development and a close working relationship with our product owners, senior engineers, and development teams to build out products for our clients and website using Elixir, GraphQL and distributed systems.
+
+Why you’ll want to come to work:
+
+Develop high quality, innovative, flexible, and scalable technical solutions for the GDM sites.
+
+Work on critical applications for the Gartner Digital Markets brands.
+
+Follow Agile Development methodologies.
+
+Participate in the engineering process through code and architecture review.
+
+What you’ll bring to the team:
+
+Must have:
+
+Experience building APIs.
+
+Experience building data models with both SQL and NoSQL databases
+
+Good communication and collaboration skills.
+
+Experience contributing to critical and scaled production systems.
+
+Modern development practices leveraging cloud services and CI/CD.
+
+Bachelor’s Degree in Computer Science or Computer Engineering is a plus.
+
+Verbal English skills (we work in English!)
+
+Nice to have/opportunity to learn (depending on the team):
+
+Building GraphQL API.
+
+Proficiency in Elixir.
+
+Experience with streaming technologies (Kafka).
+
+Experience with PostgreSQL, ElasticSearch and Redis
+
+Understanding of Linux, Docker, and Kubernetes.
+
+Experience and insight into metrics and alerting (Datadog, OpenTelemetry).
+
+Don’t meet every single requirement? We encourage you to apply anyway. You might just be the right candidate for this, or other roles.
+
+Check out our video to learn about who we are, and what we do:
+
+youtube.com/watch?v=oSO_h5VZ9a0
+
+What you’ll find:
+
+Limitless growth and learning opportunities.
+
+A collaborative and positive culture - join a diverse team of professionals that are as smart and driven as you.
+
+A chance to make an impact - your work will contribute directly to our strategy.
+
+Frequent social activities such as movie night, laser tag, bowling, escape room, summer beach party, hiking & bbq, and more!
+
+Hybrid environment with flexibility, remote work, Friday afternoons free, and more.
+
+New offices close to Glòries and the beach in the fantastic, “innovation and tech” 22@ district of sunny Barcelona.
+
+Fresh fruit, snacks, selection of teas, fair trade organic coffee and a fridge full of beer for our Thursday Beer O’Clock.
+
+What you’ll receive:
+
+Competitive compensation packages.
+
+23 days annual holiday and an additional day off for your birthday.
+
+Private Medical and Dental Care.
+
+Life and Disability Insurance.
+
+Public Transport Subsidy.
+
+Ticket Restaurant Card.
+
+Childcare Vouchers (Ticket Guarderia).
+
+IncentiFit - annual reimbursement for health-and-wellness-related activities.
+
+Pension Scheme.
+
+Tuition Reimbursement.
+
+Employee Stock Purchase Plan.
+
+Employee Assistance Program.
+
+Gartner Gives Charity Match.
+
+Relocation Assistance - a specialist to help you with all the appointments and paperwork.
+
+What are we:
+
+Action Oriented - Deliver fast, get great results. We embrace the vision, roadmap to success and the action it takes to make it happen. 
+
+Intellectually Curious - Seek to learn, love to teach. We’re humble and embrace respectful, radical candor with a mindset of ongoing professional and personal development.
+
+Collaborative - One team, shared mission. We welcome feedback and understand the value of working together to accomplish more than what is possible individually.
+
+Web: gartner.com/en/digital-markets
+Careers: jobs.gartner.com/teams/digital-markets    
+
+PLEASE NOTE:
+
+- Applications must be submitted in English.
+
+- A valid EU visa/passport is required for this position.
+
+#digitalmarkets
+#LI-Hybrid
+
+#LI-AL2
+
+Who are we?
+
+At Gartner, Inc. (NYSE: IT), we deliver actionable, objective insight that drives smarter decisions and stronger performance on an organization’s mission-critical priorities. We’ve grown exponentially since our founding in 1979 and we're proud to have over 19,500 associates globally that support over 15,000 client enterprises in more than 100 countries.
+
+What makes Gartner a great place to work?
+
+Our teams are composed of individuals from different geographies, cultures, religions, ethnicities, races, genders, sexual orientations, abilities and generations. We believe that a diversity of experiences makes us stronger—as individuals, as communities and as an organization. That’s why we're recognized worldwide as a great place to work year after year. We've been recognized by Fortune as one of the World’s Most Admired Companies, named a Best Place to Work for LGBTQ Equality by the Human Rights Campaign Corporate Equality Index and a Best Place to Work for Disability Inclusion by the Disability Equality Index. Looking for a place to turn your big ideas into reality? Join #LifeAtGartner
+
+What we offer:
+
+Our people are our most valuable asset, so we invest in them from Day 1. When you join our team, you’ll have access to a vast array of benefits to help you live your life well. These resources are designed to support your physical, financial and emotional well-being. We encourage continued personal and professional growth through ongoing learning and development opportunities. Our employee resource groups, charity match and volunteer programs keep you connected to your internal Gartner community and causes that matter to you.
+
+
+The policy of Gartner is to provide equal employment opportunities to all applicants and employees without regard to race, color, creed, religion, sex, sexual orientation, gender identity, marital status, citizenship status, age, national origin, ancestry, disability, veteran status, or any other legally protected status and to affirmatively seek to advance the principles of equal employment opportunity.
+
+Gartner is committed to being an Equal Opportunity Employer and offers opportunities to all job seekers, including job seekers with disabilities. If you are a qualified individual with a disability or a disabled veteran, you may request a reasonable accommodation if you are unable or limited in your ability to use or access the Company’s career webpage as a result of your disability. You may request reasonable accommodations by calling Human Resources at +1 (203) 964-0096 or by sending an email to  ApplicantAccommodations@gartner.com .
+
+Job Requisition ID:82637
+By submitting your information and application, you confirm that you have read and agree to the country or regional recruitment notice linked below applicable to your place of residence.
+
+Gartner Applicant Privacy Link: https://jobs.gartner.com/applicant-privacy-policy
+
+
+For efficient navigation through the application, please only use the back button within the application, not the back arrow within your browser.
+
+FullStack Developer
+SALARY
+€60-75K
+REMOTE
+100%
+🛸 Startup
+☄️ Crecimiento profesional
+🎁 Perks
+💰 Bonus
+🌎 Remoto 100%
+Nacida en Málaga, Plytix, es una plataforma Product Information Management (PIM) que ayuda a las ecommerce de diferentes tamaños a optimizar la información de sus productos, además de descubrir resultados analíticos sobre sus procesos, tanto en su web como en diferentes plataformas de venta. Para seguir escalando su producto, necesitan incorporar a un nuevo perfil FullStack Developer. ¿Te gustaría unirte a este reto? ¡Explora lo que te espera! ☟
+
+What will you do?
+Como te comentaba más arriba, Plytix es una plataforma PIM. Y te estarás preguntando “¿qué carallo es eso de PIM?” Básicamente, un software PIM es una fuente de información centralizada donde vive todos los datos de los productos de una empresa (descripciones, precios, imágenes, SKUs, etc.).
+
+Creen fervientemente que administrar el contenido de productos y el crecimiento en el mundo del ecommerce debe ser fácil y accesible para todas las empresas, sean del tamaño que sean. Su misión es ayudar a las marcas y minoristas a centralizar, optimizar, distribuir y analizar todo el contenido de sus productos desde una única plataforma. Como ellos mismos dicen “Con unos clics y un poco de drag and drop, lo tendrás todo hecho“. ¡Están democratizando la gestión de datos de productos y disfrutando cada minuto de ello!
+
+Como FullStack Developer, colaborarás en desafíos y asumirás un papel activo en los diseños de servicios escalables y sólidos. Deberás asegurarte de que estos diseños se implementen siguiendo los últimos patrones de diseño y mejores prácticas. 
+
+
+
+PlytixYour day ZERO
+
+
+In 1 month
+Vamos que empezamos… 🚶🏾‍♂️
+
+Tendrás un buen conocimiento de las herramientas y procesos, así como el código comenzará a fluir. Comenzarás a revisar historias de usuario y se te asignarán pequeñas tareas para que puedas comenzar a mostrar tus grandes habilidades en el desarrollo. 
+
+Your responsibilities
+Revisarás la calidad de los desarrollos realizados por el equipo, ya que serás referente dentro del front, vigilando que se apliquen buenas prácticas y proponiendo mejoras para incrementar la calidad de la implementación.
+Te responsabilizarás del análisis, implementación y testeo de las nuevas funcionalidades, tanto en frontend como en backend, ajustando el contexto y alcance —si fuera necesario— para entregar valor lo antes posible.
+Utilizarás tus conocimientos para mentorizar a otros perfiles, de forma que el talento de la compañía se incremente.
+Trabajarás, mano a mano, con más developers para definir mejoras en la arquitectura de la aplicación, actualizaciones y creación de librerías de componentes reutilizables que permitan adaptar la aplicación a condiciones cambiantes.
+How will you do it?
+En Plytix, se toman el desarrollo a otro nivel, ¡literalmente! Priorizan el desarrollo ágil y la mejora continua de procesos como si se tratara de un deporte extremo. ¿Su regla de oro? ¡Mínimas reuniones, máxima acción! 💼💻
+
+Eso sí, usan metodologías ágiles en cuanto a la gestión de proyectos para mantenerte en sintonía con el resto del equipo. Siempre estarás alineado/a cuando te sumerjas en pull request antes de que se mergeen.
+
+La validación de sus release candidate involucra a todo el equipo, porque aquí todos somos guardaespaldas de la calidad🦸‍♀️🦸‍♂️ Y hablando de trabajo en equipo, cada línea de código pasa por una revisión de pares antes de ser considerada digna de su repositorio.
+
+Para ello el equipo QA lo conforman 8 personas (¡sí, son exigentes!) se divide en los maestros del análisis manual y los magos de la automatización. ✨🧪
+
+Valoran la transferencia de conocimientos y la propuesta de mejoras como si fueran tesoros. Su estructura horizontal asegura que todos los temas estén sobre la mesa y, por supuesto, no escatiman en tiempo de trabajo ni en momentos de ocio.
+
+💡 Y eso no es todo. 💡
+
+No solo construyen software, sino también carreras profesionales. Suena a topicazo, pero es la realidad: tienen un plan de formación y crecimiento personalizado para cada persona, porque creen que se lo merece cada persona del equipo.
+
+When will you work?
+Tienen una jornada flexible dentro de la cual puedes distribuir tus horas de trabajo. Eso sí, deberás estar a ciertas horas concretas del día para coincidir con el resto del equipo, por ejemplo, a las 10:30 a.m. (CET) ya han empezado todos los miembros de los equipos.
+
+GUARDIAS
+
+Cuando estés ready, entrarás a realizar guardias como el resto del equipo de developers.
+
+Suelen tocar 4 veces al año, con duración de una semana. Están remuneradas tanto económicamente como en tiempo de descanso.
+
+Disclaimer: *Más detalles en la entrevista.
+
+
+
+WORKING DAY
+FULL-TIME
+
+
+HOLIDAYS
+23 DAYS
+
+
+WORKING HOURS
+FLEXIBLE
+Where will you work?
+REMOTE
+100%
+¡Desde donde quieras!
+
+Esta posición es 100% remota, por lo que mientras te asegures de que tienes buena conexión y puedes adaptar tus horarios apropiadamente, el lugar lo pones tú.
+
+Te invitarán a sus, céntricas y bien conectadas, instalaciones que tienen en Málaga donde realizan numerosos eventos tales como Halloween, Oktoberfest, Saint Patrick, así como para alguna que otra reunión/formación que hacen de manera puntual. El acudir es opcional, ¡la invitación siempre estará vigente!
+
+El onboarding es presencial y tiene una duración de unas 2-3 semanas, así tendrás la oportunidad de conocer en persona a todo el equipo de Plytix, sus procesos y procedimientos. 
+
+Who will you work with?
+Trabajarás con el equipo mixto de frontend y backend, que están siempre asegurándose de que todo funcione sin problemas, pero no serán las únicas caras con las que trabajarás a diario, ya que te codearás con el equipo de QA y de Producto.
+
+Si te pica la curiosidad, puedes echar un ojo a este video y conocer más sobre la cultura de desarrollo que tienen en Plytix:
+
+👉 Join the Development Team at Plytix
+
+No obstante, estas son algunas de las personas con las que te encontrarás en tu día a día….
+
+Juan Pablo G.(Team Lead): Bart lidera uno de los equipos involucrados en el proceso de desarrollo. Es el intermediario entre el equipo de desarrollo y el equipo de producto. Coordina a los desarrolladores durante la implementación.
+Manuel P. (Senior Backend Engineer): Como ingeniero de software, Manuel diseña, desarrolla y mantiene el producto en Plytix. Hace uso de su creatividad y habilidades técnicas para resolver nuevos problemas nuevos en el PIM.
+Antonio E. (Frontend Engineer):Como desarrollador frontend, Antonio analiza los requisitos de nuevas características, implementa nuevas funciones, corrige errores e intenta mejorar la interfaz de nuestro PIM.
+Pablo M. (QA Manual Team lead):Para garantizar la calidad, Pablo ayuda a planificar las actividades de prueba antes de que comience un sprint de desarrollo. Analiza los requisitos de las próximas funciones y coordina los planes de prueba desde el diseño hasta su entrega. Pablo tiene como objetivo mejorar continuamente los procesos y promover la calidad con el objetivo final de desarrollar un producto de primera clase.
+Pilar E. (Product Manager): Pilar es esencialmente la directora de proyectos de Plytix PIM. Ella se asegura de que las historias se muevan sin problemas a través de sprints de desarrollo y trabajar en estrecha colaboración con el equipo de desarrollo para maximizar el impacto de cada sprint.
+Angela C. (UI Specialist): Ángela trabaja en el equipo de diseño para ofrecer soluciones atractivas para nuestro PIM. También se asegura de que nuestros usuarios tengan la mejor experiencia mientras trabajan con la herramienta.
+
+
+What are they asking for?
+Buscan que la persona que se una a su equipo tenga, al menos, 8 años de experiencia en Desarrollo Web y al menos….
+
++5 años en frontend y +3 de ellos con Angular.
+Traigas contigo unas bases sólidas de JavaScript (Vanilla).
+Experiencia backend +3 años. Si además has trabajado con Python o FastAPI ya sería la bomba.
+Unos cuantos tiros pegados con CSS.
+Haber trabajado en grandes proyectos.
+Que sepas hacer una aplicación desde cero. Haber estado presente en escalar proyectos medianos-grandes o grandes.
+¡Test, test y más test!. Valorarán que tengas experiencia con pruebas unitarias, preferiblemente con la herramienta Jest.
+Conocimientos de las librerías NgRx, RxJs.
+Irás a por nota si además….
+
+Te manejas en la lengua oficial de Shakespeare. 
+Kubernetes no te suena a un jugador de fútbol griego.
+Has tocado algo de BBDD no relacionales como MongoDB.
+Eres más de Linux que las papas arrugás en Canarias.
+Technologies
+Non-negotiable
+
+Angular2+
+ADVANCED
+
+JavaScript
+ADVANCED
+
+VanillaJS
+INTERMEDIATE
+This would be good
+
+Fastapi
+INTERMEDIATE
+
+Python
+ADVANCED
+
+MongoDB
+INTERMEDIATE
+Other skills
+Non-negotiable
+
+Capacity for self-management
+
+Ability to give feedback
+
+Team player
+This would be good
+
+Autonomy in learning
+
+Analytical thinking
+This gives extra points
+
+Critical view
+
+Senior Fullstack Engineer (Climate Tech) (all genders) (5+ years exp)
+€60k – €70k • No equity
+Published: 1 month ago
+Save
+Apply Now
+Avatar for carbmee
+carbmee
+Enterprise Carbon Management – Powered by carbmee environmental intelligence™
+image
+Berlin
+image
+11-50
+image
+Startup
+Software Development
+Eco Sustainable
+Big Data Analytics
+image
+SaaS
+Enterprise Software
+Environmental Innovation
+See all jobs at carbmee image
+Location
+Germany
+ - Berlin
+Job Type
+Full Time
+Visa Sponsorship
+Not Available
+Remote Work Policy
+Onsite or remote
+Hires Remotely In
+Europe
+Preferred Timezones
+Central European Time
+Relocation
+Allowed
+Skills
+MongoDB
+PostgreSQL
+TypeScript
+React.js
+AWS
+GraphQL
+Nest.Js
+The Role
+Carbmee is an enterprise software company headquartered in Berlin and with offices in Berlin and Munich. We offer a cloud solution that enables companies to analyse, manage and reduce their carbon footprint. We measure our success in the greenhouse gas emission reduction of our customers.
+
+We are looking for Senior Fullstack Engineers to join a great team and succeed in our mission.
+
+Do you like understanding each part of a stack and the models that apply to it?
+Are you passionate about coding and willing to build the full structure of a B2B enterprise software product?
+Then come join us to help shape the way of becoming the industry standard in fighting climate change and building a category defining company!
+
+Don't feel like you meet all the criteria? We get it: confidence can sometimes hold us back from applying for a job. We'll let you in on a little secret: there's no such thing as a 'perfect' candidate. Carbmee is a place where everyone can grow. So however you identify and whatever background you bring with you, please apply if this is a role that would make you excited to come into work on a Monday morning.
+
+Your tasks
+
+We won’t list all tasks a Fullstack Engineer should normally do. Instead we say it’s up to you to make Carbmee one of the most reliable and bug-free softwares out there. Here is what you get to accomplish that goal:
+
+Work on a modern technology stack with NestJS, React, TypeScript, GraphQL, MongoDB, PostgreSQL, AWS
+Work in small interdisciplinary teams where everyone takes on ownership and responsibility
+We lead with context and not control. You bring your ideas and decide where it fits
+Always learn something. No matter how experienced you are, be open minded and hungry for knowledge
+Help fellow team members with your experience, work closely with our Head of Engineering and Technical Co-founder and shape the product roadmap
+A fantastic opportunity to grow and lead a team. Mentor and support junior engineers, help them improve and build a successful team.
+Your profile
+
+Our few requirements are that you are exceptionally detail oriented and passionate about your work. Any level of experience in software development in modern technologies is great. We use the aforementioned technologies so you must be able to adopt them quickly. It’s totally fine if you are not perfect at everything, there are plenty of opportunities to learn and grow.
+
+Benefits
+
+A unique and powerful mission: helping industry to decarbonize and fighting climate change!
+Competitive compensation including a stock option package
+Urban Sports Club subscription to stay healthy and fit
+A steep learning curve and ownership within a fast-growing and ambitious tech company that is shaping the future of carbon management
+A flexible hybrid or fully remote working culture with a lovely accessible office close to Rosenthaler Platz in Mitte, Berlin, or in the center of Munich
+Carbmee Summer Fridays: you get every Friday in August off!
+Summer Offsite, Winter Party and regular team events
+Be part of a multinational, motivated team that thinks work should be fun
+Regular Company Update Meetings, Founders Talks and weekly update newsletters. We keep you informed on current company numbers and goals
+
+[Hiring] Lead Frontend Developer @Storyteller
+Nov 23, 2023 - Storyteller is hiring a remote Lead Frontend Developer. 💸 Salary: €76k-€93k. 📍Location: Europe, UK.
+
+🇬🇧 £65k-£80k per year on a full time, employment contract
+
+🇪🇺 76k-93k EUR per year on a full time, contractor contract
+
+🌎 Fully remote working from anywhere in Europe!
+
+ 
+
+✨ Exciting products, millions of users, sold to global brands
+
+ 
+
+💻 Working with the latest hardware, tech stack and tools
+
+ 
+
+🏋️‍♀️ Access to benefits (country dependent 🌎)
+
+ 
+
+ 
+
+ 
+SUMMARY
+ 
+Storyteller is a platform that allows brands to integrate Stories functionality into their apps and websites. The platform is in use by multiple global brands serving millions of users. Check us out on our website or on ProductHunt!
+
+We're looking for an amazing Lead Frontend Developer to join our growing team and help push this product on to the next 100 million users. 
+
+You'll be working with a friendly, talented team and have the opportunity to grow and lead both technically and in managing others. If the idea of a fast-paced, dynamic role with tonnes of opportunity for change, responsibility and innovation sounds exciting to you, then read on! 
+ 
+ABOUT US
+ 
+Storyteller is a new B2B SaaS platform, which allows companies to integrate Stories into their owned and operated platforms. Popularised by Instagram and Snapchat, Stories are perfectly suited for boosting user engagement, audience retention, and driving advertising revenue. For customers, building their own stories experience can take years and a lot of investment however Storyteller has solved this by allowing companies to integrate in days, not years all for one monthly cost. Our end‑to‑end platform gives companies a best‑in‑class Stories experience in days with native iOS, Android, and Web SDKs, publishing tools, analytics, and ad support.
+ 
+We work with globally-recognised clients in US TV and Sports industries. Every day we produce work that is innovative, challenging, and enjoyed by millions of people!
+ 
+RESPONSIBILITIES
+ 
+What can you expect?
+ 
+You'll be creating great user experiences from Figma designs by working with designers and other developers and writing accessible and reliable front-end code that works efficiently on all modern browsers.
+ 
+Working on websites for some of the biggest names in the US entertainment industry, as well as working on our own products like Storyteller
+Working with the latest web technologies, this mostly means HTML, CSS, JS, React and TypeScript
+Working with build tools like NPM and Webpack
+Using Git and GitHub to collaborate on code
+Using tools like Storybook to build and test components
+Using JIRA, Slack and Zoom to communicate with team members
+Working with designers and other developers to build websites from specs produced in Figma
+Testing your code on different browsers and devices
+Testing and measuring performance using tools like Lighthouse
+Learning and improving upon our internal coding standards
+Self-evaluating and reviewing your own work, as well as providing feedback on code written by other team members
+Developing your own skills by learning from other team members and through independent research
+Deciding when to use an NPM package, which package to use or whether to write your own code and sharing your decision-making process
+Leading a small-team of front-end developers – ensuring their continued professional development and working with them to make great decisions
+ 
+QUALIFICATIONS
+ 
+What's important for us:
+ 
+A minimum of 5 years experience in a similar role, including at least 2 years of experience working with React
+A relevant degree, we may consider additional professional experience in lieu of a degree
+Excellent HTML, CSS and JS fundamentals - can write semantic and accessible HTML, and build websites that are performant on modern browsers and devices
+Experience using component-driven development to efficiently craft first-class web experiences
+A desire to build fantastic user experiences on the web
+Know how to write CSS and have experience using at least one methodology for keeping it maintainable, we normally use ITCSS with SCSS and component-driven development
+Ability to learn and apply best practices during development for the purpose of keeping code maintainable, readable, and performant
+Has an interest in creating well-crafted user experiences, an interest in UI/UX design is a bonus too
+Experience leading a team of any size
+ 
+What’s nice to have:
+An understanding of progressive enhancement and experience using it to habitually build the best user experiences for the most users possible
+Experience using unit tests or experience with test-driven development
+ 
+YOUR WORKING ENVIRONMENT
+ 
+Modern Tech Stack
+
+We use the latest tools, hardware and methodologies across our teams. We’re always on the look-out for new ways of working and ensure everyone is setup with enough hardware firepower to excel, Windows or Mac.
+
+Agility Openness for Ideas
+
+We actively encourage the entire team to share their ideas, with that in mind we regularly adopt and implement suggestions across the company, you’re the specialist here!
+
+Operating with the agility of a high growth start-up, alongside the support you can expect from a larger organisation means we encourage quick decision making and a responsive, adaptive culture.
+ 
+Outstanding People
+
+We believe that great teams are built by a mixture of personality, skills and a passion for what people do. We’re a small, start-up team with around 30 people onboard. 
+ 
+Flexibility
+ 
+We’re a remote-first company and support 100% remote working for this role. The working hours for this role is 9am - 5pm UK time.
+ 
+Joining us means becoming an integral part of the whole team no matter where we’re physically working, we have a number of initiatives to create a team environment regardless of geographic location.
+ 
+PAYMENT
+
+ 
+
+£65,000 - £80,000 per year on a full time, employment contract, depending on experience and skills.
+
+ 
+💶 76,000 - 93,000 EUR (or local currency equivalent) full-time contractor contract, depending on experience and skills.
+
+CONTRACT TYPE
+
+ 
+
+UK - Full time employment contract - fully remote working from anywhere in the UK!
+ 
+EU - Full time contractor contract - fully remote working from anywhere in Europe!
+
+ 
+RECRUITMENT PROCESS
+ 
+First, you will be invited for a 60-minute interview via Zoom with Peter, our Engineering Manager. Peter will ask about your previous experience, future career path and motivation for changing your job, as well as provide you with more details about our projects and working in our team.
+
+If the interview goes well, we will invite you to a second step – a technical task. The last step is the final interview (45 minutes) with Dave, our CTO and Pete, Engineering Manager – it’s a mix of technical and culture-fit questions as well as reviewing your task.
+ 
+And that’s it!
+
+AI Software Engineer
+Your mission: Help bring cutting-edge machine learning models to life in creative, real-world applications. Since launching in 2013, Bending Spoons has served around half a billion people across the globe through our suite of cutting-edge products. Still, we’ve only just crossed the starting line on our mission to make an enduring positive impact on our customers, on our fellow Spooners, and on society at large. When it comes to creating outstanding (and wildly popular) digital products, AI and computer vision are key—and we’ve got ambitious plans to leverage their potential to the fullest. So we’re looking for additional talented and driven AI software engineers to join our passionate AI team.
+
+A few examples of your responsibilities
+Deploy machine learning models in a production environment, impacting millions of people across the globe.
+
+Ensure ‌machine learning models are up to date and run smoothly with optimal performance.
+
+Collaborate with AI research engineers and backend software engineers to seamlessly integrate models into innovative products.
+
+Maintain the research codebase at the highest standard, ensuring reproducibility and best practices.
+
+Design and implement state-of-the-art tools and technologies to facilitate better research and faster innovation, from data collection to model optimization.
+
+What we look for
+Passion. You love what you do, and your enthusiasm never wavers with the specifics of a given task or team. Whether you’re on a plane, train, or sofa, odds are that you’ll be found with your nose in a book or article on the subject.
+
+Reasoning and depth of learning. You’re structured and creative enough to solve most challenging problems independently, given the necessary knowledge. You learn new concepts and skills rapidly, and love to nerd out and go in-depth.
+
+Drive. You’re energetic and hard-working, and you persevere through adversity until the job is done—and done impeccably. You’re massively into getting results, and always aim for excellence in what you do.
+
+Common sense. Your judgment and intuition are sound and well grounded in reality.
+
+Accuracy and precision. Your attention to detail is spot-on, and you’re painstakingly accurate.
+
+Pragmatism. Far from being too academic or obsessive in your perfectionism, you understand that speed is often as important as quality when getting things done in a competitive world.
+
+Humility. You’re down to earth, eager to listen to feedback and constructive criticism, and ready to support your team with whatever it needs to succeed.
+
+Willingness to learn. We mainly use Python, PyTorch, and Google Cloud as a tech stack. But it's not a problem if you have little or no experience with them, as long as you’re enthusiastic about learning. We’d be happy to teach you!
+
+Solid command of English. You read, write, and speak reasonably well in English.
+
+What we offer
+Real impact. We automate most menial tasks, freeing you up to focus your expertise where it can make the biggest impact.
+
+Talented, knowledgeable colleagues. Learn from (and teach) some of the brightest and most skilled people you’ll ever meet. Your talent is going to blossom here.
+
+The finest tools. You get the best hardware on the market and all the software you could need. We can't wait to introduce you to our high-tech approach and our cutting-edge workflows.
+
+Unique career opportunity. By joining a fast-growing company on a mission to become one of the world's greatest, it’s an unparalleled opportunity to turbocharge your learning and career prospects.
+
+Continuous education. Spooners get unlimited backing for learning investments, including Italian or English lessons and things like courses, conferences, and books. There’s no permission or approval process—you’re fully trusted to use the company’s resources efficiently.
+
+Remote working. Spend as much or as little time in our Milan office as you choose. Many Spooners like to change up their environment and get out of the city whenever the mood strikes. You’ve always got the freedom to decide where today’s office is.
+
+Flexible schedule. Our regular hours are 9-6 GMT+1, with remote work allowed within GMT-2 to GMT+3 time zones.
+
+People who lift up one another. We hire for talent and leave the ego at the door. You'll find a group of truly talented Spooners who are eager to teach their secrets and to learn. Reciprocal support and respect is everything—you’re unlikely to ever encounter a more harmonious crew.
+
+Flexibility and trust. From day one, you’ll be one of the team and fully trusted. No micromanagement or clipping your wings—just the freedom and responsibility to do great work.
+
+Competitive salary and stock options. The entry-level compensation package for this position includes a salary of €52,246 and a welfare bonus of €1,200. If you already have a few years of relevant work experience, you can expect to earn between €105,737 and €143,330, depending on your expertise. As you gain experience and increase your impact, compensation can grow rapidly. You also have the option to receive some of your pay in company ownership (equity) at a discounted rate.
+
+Before you apply
+Thanks for taking the time to read this far. We’d be delighted if you decide to apply, but ask that you first consider the following:
+
+Bending Spoons is an extremely demanding environment. We’re highly ambitious and we ask a lot of ourselves and our teammates, so you’re likely to work harder here than at most companies, and to regularly push yourself beyond your comfort zone. While this tends to drive tremendous learning and lead to fantastic achievements, it can also be stressful.
+
+We’re uncompromising on our standard of excellence. The vast majority of Spooners stay for years and have amazing careers here. However, it can also happen that an individual doesn’t contribute at the rate we look for. In such cases, we support the Spooner in their efforts to make the necessary improvements, but will counsel them to leave if they don’t manage to do so.
+
+We're proud of the company we've built, and many of us can't imagine working anywhere else. Still, we understand that a career at Bending Spoons isn't for everybody. We hope what you’ve read here helps you determine whether it might be the place for you. If you believe it is, then we encourage you to apply—and perhaps discover what you’re truly capable of!
+
+The selection process
+If you successfully pass through our screening process, we’ll invite you to take on a few tests that assess how you approach and solve unfamiliar problems. If you’re successful there, we’ll invite you to take part in some interviews. We welcome applications in English and Italian. Bending Spoons is an equal opportunity and affirmative action employer. We consider for employment all applicants and we provide reasonable accommodations for candidates with disabilities, which can be requested at accommodations-ext@bendingspoons.com. Studies suggest that women tend not to apply for a job if their CV isn’t a perfect fit. Here, we look for talent and potential—not just experience and expertise. So if you like the role and think you could be awesome at it, go ahead and apply.
+
+Remote Senior Front-end Engineer
+
+FULL-TIMEFRONT-END PROGRAMMINGANYWHERE IN THE WORLD$100,000 OR MORE USD
+Float is hiring a remote Senior Front-end Engineer at We Work Remotely.
+Float
+Top 100
+ New York
+ Website
+ DEI Policy
+ Remote Policy
+JOBS POSTED: 48
+Apply for this position
+View company profile & all jobs→
+
+Who We Are
+Float is the world’s leading software for teams to plan their time. Launched in 2012, we’ve grown every year since, and remain proudly independent, self-funded and profitable. We’re a team of 46 working 100% remotely and you’ll be partnering with team members distributed across the world including Australia, Canada, Mexico and Taiwan. Hear what our team has to say by browsing our blog, or reading our Glassdoor reviews. Check out what our customers think of Float from our G2 reviews.
+
+We’re on a scale up journey, and we’re seeking people who thrive in this stage, given the autonomy, and the opportunity, to do the best work of their career.
+
+
+Why We’re Hiring For This Role
+Our front-end team is responsible for our customer facing applications which are the primary method by which our customers get their value from Float. We support a web application, an iOS app, an Android app, and a desktop app (Electron), all of which share a considerable amount of code, and they are only getting bigger.
+
+As our product continues to grow our customer base continues to grow with it. We are seeking a skilled engineer to help move things forward and also to provide the all important coverage and maintenance to ensure that we can continue to deliver the high quality experience that our customers have come to expect.
+
+That’s where you come in.
+
+You’ll join a smart, capable group of engineers specifically focused on the web application, ensuring that the primary vehicle to deliver value remains exactly that. You’ll be helping to push forward the state of the art in web-based resource management, allowing customers to make the most of their time and providing value far beyond our cost.
+
+We have some ambitious goals as a company and in order to fulfill them, we have some equally ambitious goals for our web application. We’re keen to be able to support our customers as they become more successful and grow, and this ever-increasing growth is starting to challenge some of our older systems. We’re eager to re-imagine our front-end so that we are able to support customers that are multiples the size of our current larger customer.
+
+In this role, you’ll be an integral member of the team, contributing regular impactful changes and improvements to an application used for significant intervals of time each day by over 4,000 customers.
+
+
+Our Team Lead, Haakon, explains the important role you will play within our Interfaces team. Watch this video.You’ll be working asynchronously with a bright, dedicated team from across the globe, with a strong focus on taking complex problems and creating solutions that feel simple and intuitive for our customers.
+
+
+What You’ll Be Responsible For
+You’ll join our web application team and after an initial familiarization process you’ll likely find yourself leading a product-focused project in an upcoming cycle – perhaps bringing to life our project reports with improved charts and visualizations, or adding delight to every interaction of our onboarding experience. You’ll be responsible for discussing the specification with the Product and Design stakeholders, understanding the problem to be solved and satisfying yourself that we are able to produce a deliverable satisfying any constraints - performance being a key one.
+
+Over time, you’ll likely specialize in some particular area of our application based on the overall front-end architecture, being responsible for resolving any regressions or bugs within that area as well as being the point of contact for any customer-sourced queries or similar.
+
+As you become more comfortable with the product as a whole, it would be expected that you become more involved in the wider-ranging discussions on the future direction of our front-end architecture, and in particular how we can ensure that our web application can evolve to support our ambitious scaling goals, whether that be by wholesale rewrites of certain areas or strategic incremental changes or even simply more process & guidelines around how to develop within this performance-critical area.
+
+You will quickly become a core member of the team, responsible for customer visible aspects of our product, working with our User Experience team to understand how our customers work with our product and how they want to use it, so that we can help them to make the most of it.
+
+
+What You’ll Need To Be Successful
+We’re looking for a strong, seasoned engineer with at least six years experience in leading and shipping successful and demanding projects to a global audience, working as part of a small focused team to deliver objectives, being comfortable managing your time and communicating clearly with other members of the team.
+
+You’ll be excited and eager to work on a sophisticated web application and solve data and presentation problems in a performant manner for our world-wide user-base. You’ll understand the commitment that requires but also the fascinating challenges it can present.
+
+You’d be described by your colleagues as a React expert and are completely comfortable working in an application written with React combined with Redux and Reselect for the state management aspects.
+
+You have a passion for usability and able to account for the needs and ergonomics of both the end users of our interfaces, and the developers that will build them.
+
+With respect to styling, we favor a CSS-in-JS approach that does not rely heavily on utility classes—no Tailwind here!
+
+We’re currently in the process of migrating our front-end codebase to TypeScript, so familiarity with that is crucial.
+
+In addition, you should be familiar with Jest or Vitest for all things testing and should be comfortable operating in a monorepo environment.
+
+Experience with the following would be a big plus:
+Building Android and iOS apps with React Native
+Implementing Design Systems as a means to bridge the gap between design and development and provide a consistent user experience
+Accommodating accessibility standards and best-practices
+Working with distributed systems & event-based architectures at scale
+Finally, you should be very comfortable working asynchronously, since the nature of our Engineering team is that we are distributed around the world. We rely on clear, concise, and proactive written communication to ensure we all have clarity and that any problems are raised in good time so we have the necessary time to react. You will have the freedom to set your own schedule and the autonomy to do so - provided you continue to deliver and communicate, we’re very hands-off on how you structure your days.
+
+
+Why Join Us
+Pay for this role is US $161,475 (Level 3). Here’s a blog post with more information on how we determine our salaries.
+
+We’re a global async remote company with a diverse team of people from all over the world who share a common belief in living our best work life. We believe deeply in the idea of transparency and share our Float Handbook publicly so potential new team members can see first hand our perks & benefits as well as our ways of working. If you feel like you can thrive at Float to do your best work, we would love to hear from you.
+
+
+Note: Industry research shows that women and those in traditionally underrepresented groups generally don’t apply to jobs unless they check all the boxes for the role. If you feel strongly that you have what it takes for this role but don’t check 100% of the boxes—that’s okay—we encourage you to apply anyway and highlight what you can bring to the table.
+
+
+Hiring Process For This Role
+You’ll find a lot of useful information about our interview process and what it’s like to join our global team on the Float careers page. The hiring process for this role looks like this:
+
+Initial First Meet: If your application is shortlisted, you will have a 15-minute meeting with our Talent team. This meeting gives us an opportunity to learn more about your experience and also allows you to ask any questions you have about the role. We run through questions like the following:
+Why do you feel your work experience aligns with this role at Float specifically?
+What do you enjoy most about your current role? What will you be happy to leave behind?
+What are your career goals for the next 2-4 years?
+Technical Exercise: If you move forward you will be invited to complete a technical exercise that allows us to learn more about your technical skills. This is done at your own pace but on average takes between 4-8 hours to complete. Candidates that complete the exercise and meet the technical skill requirements will move on to the co-worker interview.
+Co-Worker Interview: You’ll meet with Haakon and Guido from our Dev team, for a 45-minute interview that will deep dive into your related skills and experience and run through you
+Management Interview: We take a very collaborative approach to hiring, so you’ll meet with Colin, our Director of Engineering and Lars, our CTO, for a 30-minute interview.
+Final Interview: As the final step in the process, you’ll meet with Glenn, Float’s CEO, for a 30-minute interview.
+
+Our hiring process takes an average of 24 days from the first interview to a job offer (based on YTD 2023 data). Romina or Linda from our Talent team will be in touch each step of the way to ensure that you are well informed and aware of the next step in the process.
+
+Unfortunately, due to the high volume of applications, we can only contact candidates who have been shortlisted for the role. If you do not hear from us within 14 days of submitting your application, we encourage you to apply for another role in the future.
+
+Software engineer (Backend)
+Development | Remote | FullTime
+
+About Sticker Mule
+
+Sticker Mule is the Internet's most "kick ass" brand. We are privately-owned, profitable, and powered by a globally distributed team that enjoys building happy customer experience at the highest technical standards. Our software team operates from 17 countries, and we're always looking for more exceptional engineers.
+
+See more about our teams here
+
+We offer
+
+Remote work with flexible schedules
+
+A privately owned, low-stress culture.
+
+A fun "no bullshit" work environment
+
+We like you to know
+
+Docker
+
+Ruby
+
+Rails
+
+TypeScript
+
+NodeJS
+
+GraphQL
+
+Postgres
+
+Redis
+
+Familiarity with React
+
+Excellent communication skills (English)
+
+Degree in Computer Science or equivalent practical experience
+
+Challenges
+
+Improve and expand our GraphQL APIs
+
+Migrate a large Rails code base to NodeJS services
+
+Maintain optimal back-end performance
+
+Compensation and benefits
+
+Salary: $135k+ based on experience
+
+$20,000 signing bonus
+
+4 weeks vacation + holidays based on your country of residence
+
+
+Senior Front-end Engineer en Madrid o en remoto
+Fever
+Categoría Programador Frontend
+Industria Industria Nightlife
+Salario€67.000 - €90.000
+Lugar de trabajoEn remoto
+HorasFull-Time
+Prácticasfalse
+HabilidadesTypescript Angular
+Comparte la oferta
+   
+Descripción de la oferta
+Hi, we’re Fever
+We’re excited you are checking out this job offer.
+
+We are the leading global live-entertainment discovery tech platform with a clear mission: to democratize access to culture and entertainment.
+
+How do we achieve our mission? Fever has developed a proprietary technology that inspires a global community of over 125M people through personalized and curated experiences in their local city whilst empowering entertainment and event creators to reach new audiences and enhance their experience.
+
+Sounds amazing, right?
+
+Behind the user-friendly iOS and Android apps and webpage that work across the world is the engineering team. We are in charge of creating, developing, improving, and maintaining all Fever services so that more people can have an amazing experience.
+
+About the role
+
+Location: Spain
+
+You’ll be part of the Engineering team and adding value to our applications, allowing people to reach the best experiences in their cities.
+You’ll be working with the latest technologies on the frontend, surrounded by highly qualified professionals like you on a highly scalable and performance way.
+Key responsibilities
+
+Design easy-to-use, performant, and exciting web experiences serving thousands of users around the world.
+You'll work as part of an agile, cross functional team with other full stack, mobile, backend and frontend engineers, together with the product designers.
+Understand the technical trade offs of different solutions, implement them and make them scalable.
+Have a product-oriented mindset and work towards best outcomes for the product.
+Collaborate with the larger team via regular design critiques and working sessions
+What would you do at Fever?
+
+On your first month in Fever:
+
+You will be fully integrated into the team. During this month you will have already participated in plannings, groomings and retrospectives of the team, and you will have met the departments of Fever.
+You will get familiar with Fever’s tech stack and frameworks used to develop our applications.
+You will attend some of the Fever Original’s experiences like Candlelight
+After 3 months in Fever:
+
+You’ll be able to come up with solutions to new difficult problems and your developments will be creating new business opportunities
+You’ll have responsibilities over some of the shares libraries across the teams
+You will participate in some of the hackdays or hackathon we organise with other teams, and you will mostly know everybody from engineering.
+On your 6th month in Fever:
+
+You’ll improve performance, scalability and infrastructure of the applications
+You’ll be mentoring other new joiners to the team
+You will participate in some of the team buildings we organise for your team or the whole engineering team
+About you
+
+You’re smart, get stuff done, have great energy, and thrive in a fast paced environment
+Deep knowledge on Angular (>= 10) , SSR, HTML5, CSS3, SASS, Typescript and NodeJS.
+You have experience working through cross-browser compatibility issues
+You know how to code a responsive design
+You have a strong understanding of RESTful APIs, doing API-first development and working with OpenAPI specifications.
+You comply with defined coding standards, creating quality code. You can't think of a code without tests
+You are proficient in business English
+It would be a plus if you...
+
+You are comfortable doing code on other platform outside of the front
+You have worked with high load websites
+Benefits & Perks
+
+Opportunity to have a real impact in a high-growth global category leader
+40% discount on all Fever events and experiences
+Home office friendly anywhere in Spain
+Relocation package for international candidates
+Responsibility from day one and professional and personal growth
+Great work environment with a young, international team of talented people to work with!
+Health insurance and other benefits such as Flexible remuneration with a 100% tax exemption through Cobee.
+English Lessons
+Gympass Membership
+Possibility to receive in advance part of your salary by Payflow.
+Attractive compensation package consisting of base salary and the potential to earn a significant bonus for top performance.
+Base Salary: 50.000 - 65.000EUR
+Total Compensation: 67.500 - 90.00EUR (Including Base, Variable, and Stock Options)
+ 
+Thank you for considering joining Fever. We cannot wait to learn more about you!
+
+If you want to learn more about us: Fever's Blog | Tech.Eu |TechCrunch
+
+Fever is committed to creating an inclusive and diverse workspace where everyone's background and ideas count. Our main goal is to find the best possible talent regardless of place of birth, racial or ethnic origin, gender, gender identity, religion, opinion, sexual orientation, disability, pregnancy, marital status, age or caring responsibilities. We encourage everyone to apply!
+
+If you require any kind of accommodation during the selection process please contact our Talent team so we can help you by providing a welcoming and seamless journey.
+
+Machine Learning Engineer ( NLP)
+SALARY
+€50-70K
+REMOTE
+100%
+🌎 Remoto 100% en España/Europa
+🛸 Startup
+🎯 Producto
+🤖 IA
+Open-source ⚡
+Nuclia ha creado una API que simplifica el complejo proceso de crear un motor de búsqueda impulsado por IA sobre cualquier dato no estructurado, en cualquier formato e idioma, sin importar dónde esté almacenado. Puede gestionar la transcripción de vídeo y audio, la extracción de contenido de imágenes, y el análisis sintáctico de documentos.😮
+
+Les estamos ayudando con la búsqueda de un/a machine Learning engineer que afronte el reto de aportar valor a un equipo de lo más top. 🌟
+
+¿Quieres formar parte de un equipo que transformará la forma en que los seres humanos encuentran información? 👇👀👇
+
+What will you do?
+Primero, un poco de contexto: 🗒
+
+En España, hay muchas empresas que se dedican a integrar tecnología, pero lo que hace a Núclia realmente única… Es que ¡están construyendo tecnología! Compitiendo directamente con startups de nivel mundial, desde Londres a Silicon Valley.  🌪️
+
+Nuclia ha desarrollado una API capaz de conectarse a los distintos repositorios de información no estructurada de una organización, siendo capaz de indexar el conocimiento y, mediante GenAI, de responder a preguntas sobre los datos no estructurados de la empresa.
+
+Ofrecen una solución 100% end-to-end. Dónde sea que esté la información, y sin importar el formato e idioma, NucliaDB es capaz de indexarla y almacenarla. ¡Anda! Que ¿qué es NucliaDB? NucliaDB es la base de datos multi-modal, de vectores, y open source que ha desarrollado la compañía. Ya solo eso es impresionante, pero, lo vas a ver, este equipo no se conforma con cualquier cosa. En Nuclia también permiten la integración con los distintos LLMs existentes en el mercado, ¡y hasta ofrecen su propio modelo de lenguaje!
+
+
+
+El producto de Nuclia es una API pensada como una búsqueda asistida por Inteligencia Artificial. Uno de sus puntos fuertes es que gestionan todo el ciclo, de tal forma que un/ usuario/a tiene sus datos privados sobre los cuales quiere mejorar su búsqueda. Este usuario/a puede subir toda la información sobre la cual quiere buscar, Nuclia procesa la información desde el punto de vista de datos no estructurados, con cualquier tipo de fichero, y de ahí se hace un procesamiento que intenta sacar el máximo de texto e información 🤖 . Entra en juego entonces la parte Open Source de Nuclia, que es NucliaDB, Esto les permite buscar semánticamente, entre en el contenido del usuario. 👀
+
+Las funcionalidades de generación de respuestas en Nuclia se basan en el concepto RAG, Retrieval-Augmented Generation, con el que una vez se ha localizado dónde, en los datos del usuario, se halla la respuesta a lo que se pregunta, y se genera una respuesta al más puro estilo ChatGTP o BARD. En este sentido, han integrado varios generadores de lenguaje y ahora están generando el suyo propio, para poder personalizar la experiencia de búsqueda del usuario. 🦾
+
+La parte final consiste en que el usuario va a ser capaz de etiquetar, y entrenar sus propios modelos para cerrar todo el círculo. 
+
+También hacen control de “alucinaciones”, para asegurar que lo que se produce viene de los datos del usuario, garantizando que los datos del usuario no salen a ninguna API externa.
+
+
+
+Como usuario, más que entrenar tus propios modelos, puedes tunearlos, para que se vuelvan más específicos y aprendan de manera más focalizada.🎓 De esta forma, el modelo que llega al cliente es mucho más potente, sin que le requiera demasiado esfuerzo.
+
+
+
+             🍫 Pero vamos al turrón, ¿qué harás tú? 🫵
+
+¡Prepárate para un viaje al futuro con el equipo NUA! 🚀
+
+Te unirás a NUA, Nuclia Understanding API, que fusiona dos conjuntos: Imagina fusionar el poder de la ingeniería de software y la magia del machine learning en un solo equipo.💻✨ Uno que combina ingeniería de software con un poco de plataforma, y otro especializado en machine learning, enfocado en todo lo relacionado con inteligencia artificial. En este equipo, estarás en contacto con asuntos relacionados con el procesamiento natural del lenguaje y el machine learning. A diferencia de centrarse únicamente en investigación, su enfoque radica en llevar a producción las innovaciones desarrolladas en LLM, garantizando su continuidad y mantenimiento. ¡Nada de quedarse en la teoría! 🚀🧠
+
+Tienen dos APIs, una es la que procesa archivos y saca información de ellos, y otra que hace inferencia sobre los modelos de machine learning y su entrenamiento. También se hacen cargo del sistema de autorización de toda la plataforma, y de otros sistemas necesarios, como por ejemplo, el de usuarios y cuentas, así como recoger los datos necesarios para poder cobrar por uso a los clientes.
+
+🚨DISCLAIMER🚨  Si piensas que Transformer es una película o el juguete de moda para estas Navidades, esta oferta no es para ti 😅
+
+Trabajarás con un equipo de desarrolladores, ingenieros ML y científicos de datos, para poner en producción soluciones ML y NLP de vanguardia.
+
+Como Machine Learning Engineer en nuestro equipo, serás “the hero” detrás de las cortinas, construyendo y mejorando nuestras plataformas con el poder del procesamiento del lenguaje natural y el aprendizaje automático. 🤖💻
+
+Tu misión: construir plataformas, sistemas e infraestructuras que sean tan fuertes como un castillo. Utilizarás tu experiencia en Procesamiento del Lenguaje Natural y aprendizaje automático para que nuestros sistemas sean tan inteligentes como el mago más sabio. 🏰🧠
+
+Serás el/la malabarista maestro/a de proyectos, plazos y entregables. Manejarás las prioridades con tu destreza técnica, asegurándote de que cada proyecto brille como una estrella en el cielo de la tecnología. 🌟🤹‍♂️
+
+¡Diseñarás, desarrollarás, probarás, desplegarás, mantendrás y mejorarás soluciones de software como un/a arquitecto/a de soluciones brillantes detrás de las escenas, construyendo el futuro con líneas de código! 🏗️💡
+
+Tomarás la iniciativa como un verdadero/a héroe/ heroína, enfrentándote a los retos de procesados de datos y flujo de trabajo como si fueran dragones que necesitas vencer. ¡Tus soluciones técnicas serán tu espada y escudo! 🐉🛡️
+
+
+
+¡Tambien vas a solucionar problemas en producción y cazar bugs! 
+
+Como ya te habrás dado cuenta 😁 , que vengas con un fuerte background técnico como Software Engineer será vital, ya necesitarás esa base para tu trabajo como ML y NLP
+
+¡Si te unes a este equipo, cada línea de código contará una historia de innovación y éxito! 🎉👩‍💻 
+
+En Nuclia hay un nivel muy alto de conocimiento, son apasionados, proactivos y con muchísimo ownership, capaces de crear, desarrollar, probar y vigilar que funcione y, esperan que la persona que se incorpore aporte valor del mismo modo.
+
+Contarás con un equipo de Plataforma, que se encargará de proveer todos los recursos necesarios para mantener tu autonomía. Están dedicados a facilitar la monitorización en producción, el desarrollo diario con sistemas automatizados y la implementación en diversas zonas. La integración y despliegues continuados se lleva a cabo mediante GitHub Actions + ArgoCD
+
+Tienen su infraestructura en GCP y AWS, despliegan de forma automatizada en todos los sitios. 
+
+Por si fuese poco, han creado su propia base de datos, que escala horizontalmente para el diseño del producto en sí mismo. 
+
+Usan event sourcing para el escalado, con NATS como backend. Esto les permite escalar a nivel de tráfico y a nivel de consultasDesarrollarás en tu día a día con FastApi, el framework rest python elegido para desarrollar todas las APIs en Nuclia 
+
+Es importante que tengas experiencia profesional con Kubernetes, ya que todo lo que vas a tocar está montado sobre ello.
+
+Se valora que tengas una base programando software utilizando patrones asíncronos, si conoces Asyncio, mejor que mejor, es lo que utilizarás para estos casos, luego es algo que con ellos podrás desarrollar. 🎓
+
+NucliaYour day ZERO
+
+
+In 1 month
+Durante el primer mes habrás completado tu onboarding, conocerás a todo el equipo, y los diferentes departamentos que componen la empresa.
+
+Tendrás una primera visión de todas las piezas del puzzle de Nuclia: que hace y cómo lo hace. Dentro de las tareas que tengan sobre la mesa cuando entres, intentarán empezar con tareas/funcionalidades que partan de cero (o casi) para poder acostumbrarte gradualmente, no solo al código, sino también a todas las tecnologías, jerga y herramientas. 
+
+Habrás avistado, cazado y eliminado algún bug, y probablemente ya entiendas qué quiere decir "stashify" 👴. También es más que probable que hayas ayudado al equipo en algún que otro "asunto" en producción para calentar.
+
+Your responsibilities
+Construirás sus plataformas, sistemas e infraestructuras utilizando tu experiencia en procesamiento del lenguaje natural y aprendizaje automático.
+
+Gestionarás las prioridades individuales de los proyectos, los plazos y los entregables con tu experiencia técnica.
+
+Participarás activamente en diseñar, desarrollarás, probar, desplegar, mantener y mejorar soluciones de software.
+
+Tomar la iniciativa y ser responsable de las soluciones técnicas a los retos de calidad de datos y flujo de trabajo.
+
+Ser responsable de definir y elaborar métricas de calidad y escalado para nuestros componentes
+
+Mantendrás a raya cualquier Bug que pueda aparecer
+
+Llevar a producción componentes avanzados como pipelines de finetuneado de LLM
+
+How will you do it?
+ La flexibilidad es su segundo nombre! 🚀 En Nuclia, no se casan con ninguna metodología. Se adaptan más rápido que un camaleón en una pista de baile. 💃
+
+¿Cómo se organizan?
+
+ Con sprints bisemanales porque, sinceramente, ¡les gusta mantenerse en forma! 🏃‍♂️💨 En sus sprints planning, todo el equipo se reúne para planificar las iteraciones. Priorizan, hacen malabares con tareas y dejan claro qué queda pendiente. ¡Es un espectáculo de planificación en vivo! 🎪
+
+No podrían empezar el día sin su dosis diaria de 15 minutos de stand-up daily. 🌞 Y para mantenerse sincronizados en toda la empresa, se juntan cada semana en el Weekly planning. ¡Es como una fiesta semanal de sincronización! 🎉
+
+¿Cuál es su superpoder? La escalabilidad. Hacen magia para que su plataforma crezca más rápido que un meme viral. En el equipo rotan según la funcionalidad en la que trabajen y, una vez a la semana, hacen una reunión para asegurarse de que todo esté en marcha. 🎠
+
+Objetivo: 👉 que todo esté muy estable. 🦾
+
+¡Y para sumarle un toque internacional a la mezcla, tendrás la oportunidad de practicar tu "english pitinglish" con colegas de EE. UU. y Francia! 🌍🗣️
+
+Cada trimestre, cada equipo se marca objetivos y, de vez en cuando, quedan en encuentros presenciales para celebrar como campeones/as. El Roadmap es tan transparente que podrías verlo con gafas de sol. 🕶️ Y, claro, todo en el equipo está en la onda. 🤝
+
+¿Suena emocionante? ¡Únete al equipo donde la planificación es un arte y la estabilidad es su mantra! 🚀🌈 
+
+
+
+When will you work?
+Trabaja cuando te sientas más productivo/a. ¡No más mirar el reloj! 🕰️
+
+Tienen una jornada flexible de lunes a viernes 100% remoto, confían en el sentido común y creen en construir un ambiente de trabajo colaborativo y amigable. ¡Son un equipo, después de todo! 🤝
+
+Quieren a alguien con el gen del "ownership", alguien que no solo haga su trabajo, sino que también se sienta dueño/a de él. ¡Hazlo a tu manera! 🛠️🎉
+
+
+
+HOLIDAYS
+22 DAYS
+
+
+WORKING HOURS
+FLEXIBLE
+Where will you work?
+REMOTE
+100%
+¡Desde donde quieras!
+
+Esta posición es 100% remota,  por lo que mientras te asegures que tienes buena conexión, podrás trabajar desde tu casa del pueblo o la playa del Sardinero 🏖️.
+
+Suelen reunirse semestralmente para realizar actividades de teambuilding.  Este año, por ejemplo, quedaron en mayo y octubre. 
+
+Van a priorizar a personas que residan en España, si vives en Europa y la diferencia horaria no es mayor a dos horas, escríbenos igualmente y hablamos. 
+
+Who will you work with?
+Ahora mismo son 26 personas en Nuclia. En el equipo de NUA que es donde tú estarás ahora mismo, hay 3 compañeros/as te les presentamos: 
+
+Carles Bruguera Artero: Software Engineer. Con más de 15 años de experiencia en el mundo de software, experto en python, siempre está deseando aprender nuevas tecnologías, y le gusta crear cosas útiles que simplifiquen y ayuden en la vida cotidiana.  Como líder del equipo de Software siempre encontrarás en él, la ayuda que necesites para seguir creciendo. 🤜🤛
+
+Carmen Iniesta López:  NLP Machine Learning Engineer . Murciana que cree en valores como feminismo, justicia algorítmica, lingüística y datos para el bien social. Diversidad e igualdad en la tecnología para ganar. ¡Y ojo! Es la que más sabe de ML, de hecho será tu líder en este apasionante viaje 💪
+
+Albert Nadal Garriga: Software Engineer. Le apasiona trabajar en proyectos desafiantes y creativos que requieren aprender nuevas habilidades y utilizar tecnologías de código abierto. Tiene un canal de YouTube donde publica el código fuente de sus proyectos paralelos y otras utilidades.🎙
+
+
+
+What are they asking for?
+Quieren a alguien, que haya visto Transformers… nos referimos al modelo Transformer y no a Optimus Prime. Aunque hay que admitir que siempre hay que estar listo para 'transformar' problemas de código en soluciones épicas, ¡sin necesidad de llamar a los Autobots! 😉
+
+
+
+En su «lista de los Reyes Magos» 👑👑👑 nos han pedido a un/a Machine Learning Engineer, que tenga fuerte background técnico como Software Engineer.
+
+Por eso consideran muy importante que traigas en tu mochila 🎒: 
+
+Experiencia en desarrollo de software en Python (al menos 4 años), idealmente 3 de ellos con NLP.
+Estar al día de los últimos modelos de ML y que cuentes con gran interés en poner en producción soluciones innovadoras. Ah... recuerda que ellos han creado el suyo propio 🤔.
+Experiencia en uno o más de los siguientes campos: PLN, tecnologías de búsqueda, recuperación de información, ML, Transformers, Keras, MLOps, Tensorflow.
+Que hayas procesado datos de fuentes no estructuradas.
+Inglés fluido, tanto verbal como escrito. Ya que están en plena expansión a EE. UU. y tendrás compañeros que no hablan castellano.💂
+
+Si vas a por el 🔟 valoran:
+
+Que cuentes con formación en Ingeniería informática o similar
+Bagaje en el uso, diseño e implementación de APIs REST.
+ Experiencia depurando, perfilando y optimizando código python. 
+Que te hayas pegado profesionalmente con: arquitectura/desarrollo de sistemas distribuidos a gran escala, concurrencia, multihilo y sincronización. 
+Que hayas trabajado ya con las APIs de los LLMs privados más conocidos (palm, cohere, openai, anthropic… )
+Si has  trabajado en entornos Unix/Linux, ¡mejor que mejor!
+Comprensión de tecnologías como Kubernetes, GitOps, CI/CD.
+Que entiendas sobre programación en red, y de tecnologías como NATS Jetstream o Kafka.
+Que sepas y te guste, lo que es trabajar en un entorno de startup.🛸
+Y ya sería un regalo extra 🎁 si además traes experiencia: 
+
+Entrenando o finetuneando LLMs
+En prompt engineering
+En la creación de software utilizando patrones asíncronos, darán palmas con las orejas, si la tienes con Asyncio.👏
+Bagaje liderando proyectos de código abierto.
+Escribiendo aplicaciones de alto rendimiento.
+Technologies
+Non-negotiable
+
+Fastapi
+ADVANCED
+
+TensorFlow
+INTERMEDIATE
+This would be good
+
+Kubernetes
+INTERMEDIATE
+This gives extra points
+
+Pytest
+ADVANCED
+Other skills
+Non-negotiable
+
+Adaptability to change
+
+Proactivity
+
+Attention to detail
+
+Good verbal communication
+
+Capacity for self-management
+
+Capacity for abstract thinking
+This would be good
+
+Emotional intelligence
+
+Ability to give feedback
+
+Ability to receive feedback
+Languages
+English
+FLUID
+What are they offering?
+SALARY
+€50-70K
+SCHEDULE
+FLEXIBLE
+REMOTE
+100%
+📡 Trabajo remoto 100%
+
+💰 50€ bruto/mensual por gastos TT
+
+🕓 Horario flexible 
+
+💻 Equipo necesario para que puedas trabajar Facilitan portátil MBP y si necesitas algo adicional como (teclado, monitor, ratón) la empresa lo compra. 
+
+🍲 Posibilidad de recibir retribución Flexible (Ticket, Guarde, Rest y Transporte).
+
+ACANTES EN LAUREL GAMING
+1. Oferta de empleo Senior Frontend Developer
+
+Sobre la empresa
+Laurel Gaming es diversión, competitividad y experiencias en comunidad en una sola app. Integramos casual games donde los usuarios pueden jugar y obtener recompensas reales. Nuestro lema ya lo dice ¿Qué te juegas?
+
+‍Queremos ser la plataforma número 1 de social gaming del mundo.
+Responsabilidades
+En enero 2024 lanzaremos nuestra versión 2.0 de Laurel Gaming, después de que en 2023 lanzaramos nuestro primer MVP con más de 20k descargas con solo un único juego de preguntas.
+Ahora toca pasar al siguiente nivel. Contamos con un equipo de 2 fundadores, 1 CTO.
+‍
+-El candidato será el encargado de ir produciendo los diferentes juegos y features es decir, ser el encargado toda las responsabilidades de la parte front de la app.
+
+-El principal reto es conseguir desarrollar y poder lanzar constantemente nuevos juegos y features para que los usuarios puedan jugar online o hacer partidas con sus amigos. Hay que ser flexible y rápido en la introducción de nuevos juegos acoplados y nuevas features como el apartado de torneos.
+Requisitos
+-Conocimiento y manejo amplio de HTML, CSS
+(+3) años de experiencia con ReactJS, aplicando patrones SOLID y buenas prácticas de desarrollo.
+(+3) años de experiencia con React Native, aplicando patrones SOLID y buenas prácticas de desarrollo.
+-Experiencia en la implementación de animaciones en React Native utilizando bibliotecas como react-native-reanimated, moti.js u otras similares.  
+-Experiencia en el uso de Firebase para el desarrollo de aplicaciones web y móviles.
+-Experiencia en el uso de NextJS.
+-Experiencia con Expo para el desarrollo de aplicaciones móviles.
+-Habilidades de comunicación en inglés, principalmente para la lectura y comprensión de documentación técnica
+Plus
+-Conocimientos y experiencia en el desarrollo de videojuegos idealmente en react-native multijugador.
+-Conocimientos en Unity para el desarrollo de juegos.
+¿Qué te ofrecemos?
+-Trabajo Hibrid o remoto (ubicados en Barcelona).
+-Incorporación inmediata.
+-Contrato indefinido con período de prueba corto. Full-time
+-Retribución extra en formato Phantom Shares.
+-Trabajar mano a mano con CTO y asumir responsabilidades y aprendizajes desde día 1.
+
+Muy importante que sea proactivo, con mucho garrote para estar al pie del cañón para hacer crecer y convertir Laurel Gaming en la mejor app de casual games, recompensas y entretenimiento.
+Enviar CV a: jdomingo@laurelgaming.com
+
+
+2. Oferta de empleo Community Manager
+Sobre la empresa
+¡Hola! Si estas leyendo esto y eres Community Manager te interesa.
+Somos Laurel Gaming, una startup donde hemos creado una app de juegos en la que puedas retar a quien quieras y jugarte cualquier cosa en cualquier juego. Por ahora estamos empezando y necesitamos un community manager para incorporarse a nuestro equipo. ¿Te animas?
+¿Qué buscamos en ti?
+• Una persona nativa digital, te mueves por las redes como Nemo en el agua.
+• Que seas una persona creativa y resolutiva, sobretodo que entiendas a la perfección el mundo de Instagram y Tik Tok.
+• Que seas creativo y no tengas miedo a exponer tus ideas, somos un equipo de lo más friendly y queremos una persona proactiva que comparta siempre cualquier idea que tenga.
+• Interactuar con nuestra comunidad online y responder a sus preguntas y comentarios.
+• Capacidad para crear el contenido, con un buen teléfono móvil sirve, si tienes una cámara ya te regalas.
+• Dominar programas de diseño y edición de vídeo como Canva, FIGMA, Cup&Cut o similares.
+• A final de cada mes nos haría falta un breve análisis de métricas para medir objetivos y poder reorientar nuestras acciones de marketing.
+• Planificación de la estrategia y el calendario de redes sociales
+• Residente en Barcelona o alrededores.
+¿Qué formación?
+No nos importa los estudios que tengas, siempre y cuando seas el Leo Messi de las redes sociales. Tranquilo, tampoco te pediremos la luna, pero si que tengas ganas de trabajar y aportar lo mejor de ti.
+
+• Conocimientos en gestión de RRSS: dinamización de la comunidad social, segmentación y gestión de comentarios y campañas de comunicación y marketing (Instagram, Tik Tok y LinkedIn, Discord para nuestra comunidad gamer).
+• Conocimientos en herramientas de gestión de RRSS (Business Manager; Hootsuite o similar).  
+• Nivel alto en redacción de contenidos, expresión y ortografía.
+• Catalán y castellano perfectos, hablado y escrito.
+¿Qué te ofrecemos?
+• Incorporación en un periodo de máximo dos meses.
+• Buena formación ya que podrás ver cómo funciona una startup y podrás ser parte del gran proyecto que tenemos a futuro desde el principio.
+• Contrato parcial o de prácticas.
+• Posibilidad de 2 días por semana de teletrabajo.
+• Horario a concretar pero será de media jornada.

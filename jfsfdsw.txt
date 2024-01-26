@@ -1,0 +1,55 @@
+Principios de Programación:
+
+¿Sigues alguna metodología específica como TDD (Test-Driven Development) o BDD (Behavior-Driven Development)?
+¿Cómo aplicas estos principios en tu trabajo diario?
+
+Aplico TDD de manera general. Suelo tomar dos formar de aplicarlo:
+
+ - Cuando estoy resolviendo issues, escribo todos los tests que deberían pasar cuando el issue esté resuelto, y luego pues voy escribiendo código hasta que los tengo en verde.
+
+ - Cuando estoy desarrollando nuevas features, suelo hacerlo de manera más secuencial. Escribo un test que falle, hago commit, luego código hasta que elt est pasa, hago commit, y luego refactorizo y hago commit.
+
+Código Limpio y Mantenimiento:
+
+¿Qué importancia le das a escribir código limpio y mantenible?
+
+Me gusta mucho intentar aplicar los principios SOLID a React. Aunque bajo mi opinión, las clases de React quedaron atrás, y todo lo que creo nuevo o hago cambios significantes como para que merezca la pena el refactor, lo hago usando componentes funcionales, me gusta mucho el punto de vista de este [artículo](https://konstantinlebedev.com/solid-in-react/) de como aplicar principios SOLID en la forma en que se crean componentes.
+
+
+¿Te inspiras en algún autor o libro en particular, como "Clean Code" de Robert C. Martin?
+Herramientas y Tecnologías:
+
+¿Utilizas alguna herramienta o tecnología específica para mejorar la calidad del código, como linters o sistemas de integración continua (CI/CD)?
+
+En el equipo de trabajo usamos ESLINT con las reglas de airbnb como base, aunque con nuestros ajustes. Esto te mira tu código mientras lo escribes y jenkins te lo tira para adetrás sino cumple con todo. Ahora también estoy inmerso en un proyecto para además integrar SonarQube para minizar los riesgos de seguridad.
+
+¿Prefieres trabajar con bibliotecas/frameworks específicos? ¿O tiendes a evitarlos en determinadas circunstancias?
+
+No creo que haya una respuesta única. Todo depende de las necesidades del momento, y de si sale a cuenta invertir el tiempo necesario en reinventar la rueda para que esté adaptada a ti, o puedes ya usar una rueda que ya esté hecha. Cuando programo de manera personal, si que suelo tender a evitar bibliotecas y frameworks, me parece muy pedagógico escribir todo de cero.
+
+
+Documentación y Comentarios en el Código:
+
+¿Cómo abordas la documentación de tu código? ¿Prefieres un código autoexplicativo o detallar tus intenciones a través de comentarios?
+
+En mi opinión los comentarios limitados a lo que establece JSDOC. de resto, código autoexplicativo y hacer aclaraciones para cosas concretas (como por ejemplo, explicar porqué se ha saltado una regla de eslint), pero nom le veo sentido a comentar cada detalle.
+
+Colaboración y Revisión de Código:
+
+¿Participas en revisión de código con tus colegas? Sí, soy parte de los miembros del equipo que se necesita que al menos un check de cada para que el PR pueda mezclarse.
+
+Cosas por las que no dejo pasar un PR: código que no se entienda, hacer un skip a reglas de eslint sin justificación válida (es muy raro que haya alguna justificación válida), que los cambios no vayan acompañados de test unitarios o errores ortográficos en los nombres de las variables (puede que realmente tenga algo de toc con esto último).
+
+¿Cómo manejas el trabajo en equipo y la programación en pareja? La programación en pareja me gusta enfocarla de manera que él que no tiene el teclado, es el que debe llevar la voz cantante, y el que tiene el teclado pues aporta y escribe. E ir cambiando de rol cada hora o algún intervalo establecido.
+
+
+Aprendizaje Continuo y Mejora:
+
+¿Cómo te mantienes actualizado con las mejores prácticas de la industria?
+¿Participas en eventos, lees libros específicos o sigues algún blog o influenciador en el campo del desarrollo?
+
+Me gusta participar en eventos cuando se puede, como por ejemplo el Canarias JS Day. También me suelo informar por Medium, Twiter, podcast, Youtube y algo que encuentro particularmente útil es el newsletter semanal de Freecodecamp. Creadores de contenido que me gusten, el podcast de "programar es una mierda", el canal de MiduDev, el de CarmenAnsio para CSS y suelo estar al loro de cualquier cosa que escriba Kent C Dodds.
+
+Gestión de Proyectos y Trabajo en Equipo:
+
+¿Cómo aplicas las mejores prácticas en la gestión de proyectos y en el trabajo colaborativo con tu equipo?
