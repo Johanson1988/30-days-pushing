@@ -6,3 +6,4 @@
  - day 4
  - day 5
  - day 6
+ - day 7
